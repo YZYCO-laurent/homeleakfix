@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:39:58+03:00'
 draft: false
 slug: hydrostatic-pressure-in-basements-explained-for-homeowners
 categories:
-- Basements & Foundations
+- basements-foundations
 tags:
 - hydrostatic pressure basement
 - basement water pressure

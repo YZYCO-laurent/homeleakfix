@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:17:31+03:00'
 draft: false
 slug: reinforced-roof-coatings-when-to-use-fabric-fleece-or-fibre-
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - reinforced roof coating
 - roof coating with fabric

@@ -6,8 +6,8 @@ lastmod: '2026-05-25T13:33:04+03:00'
 draft: false
 slug: how-to-prepare-a-flat-roof-before-applying-waterproof-coatin
 categories:
-- Flat Roof Leaks
-- Sealants & Materials
+- flat-roof-leaks
+- sealants-materials
 tags:
 - prepare flat roof for coating
 - clean roof before coating

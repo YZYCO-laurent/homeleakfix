@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:53:36+03:00'
 draft: false
 slug: waterproofing-stone-foundations-special-risks-in-older-europ
 categories:
-- Sealants & Materials
-- Basements & Foundations
+- sealants-materials
+- basements-foundations
 tags:
 - waterproofing stone foundation
 - old stone basement damp

@@ -6,9 +6,9 @@ lastmod: '2026-05-25T12:47:38+03:00'
 draft: false
 slug: waterproof-sealant-for-wood-outdoor-repairs-and-rot-preventi
 categories:
-- Sealants & Materials
-- Seasonal Prevention
-- Windows, Doors & Walls
+- sealants-materials
+- seasonal-prevention
+- windows-doors-walls
 tags:
 - waterproof sealant for wood
 - wood waterproofing

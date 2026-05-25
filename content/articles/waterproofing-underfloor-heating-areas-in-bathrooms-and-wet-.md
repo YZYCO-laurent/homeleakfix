@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:42:31+03:00'
 draft: false
 slug: waterproofing-underfloor-heating-areas-in-bathrooms-and-wet-
 categories:
-- Bathrooms & Wet Rooms
+- bathrooms-wet-rooms
 tags:
 - waterproofing underfloor heating bathroom
 - wet room underfloor heating

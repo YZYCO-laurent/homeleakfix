@@ -6,8 +6,8 @@ lastmod: '2026-05-25T10:53:16+03:00'
 draft: false
 slug: liquid-waterproofing-membranes-explained-uses-benefits-and-l
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - liquid waterproofing membrane
 - liquid applied membrane

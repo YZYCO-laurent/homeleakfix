@@ -6,8 +6,8 @@ lastmod: '2026-05-25T13:20:01+03:00'
 draft: false
 slug: freeze-thaw-damage-to-concrete-cracks-spalling-and-waterproo
 categories:
-- Balconies & Exterior Concrete
-- Seasonal Prevention
+- balconies-exterior-concrete
+- seasonal-prevention
 tags:
 - freeze thaw concrete damage
 - concrete spalling

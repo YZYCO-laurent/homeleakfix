@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:43:04+03:00'
 draft: false
 slug: small-bathroom-waterproofing-splash-zones-and-practical-prio
 categories:
-- Bathrooms & Wet Rooms
+- bathrooms-wet-rooms
 tags:
 - small bathroom waterproofing
 - tiny bathroom wet room

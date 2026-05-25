@@ -6,8 +6,8 @@ lastmod: '2026-05-25T13:00:59+03:00'
 draft: false
 slug: waterproofing-layer-thickness-why-too-thin-or-too-thick-can-
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - waterproofing layer thickness
 - coating thickness

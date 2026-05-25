@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:26:46+03:00'
 draft: false
 slug: mould-prevention-after-leaks-drying-ventilation-and-material
 categories:
-- Seasonal Prevention
+- seasonal-prevention
 tags:
 - mould prevention after leak
 - drying after water leak

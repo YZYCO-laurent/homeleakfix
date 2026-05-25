@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:51:02+03:00'
 draft: false
 slug: cementitious-waterproofing-for-basements-what-it-can-and-can
 categories:
-- Basements & Foundations
-- Sealants & Materials
+- basements-foundations
+- sealants-materials
 tags:
 - cementitious waterproofing basement
 - tanking slurry

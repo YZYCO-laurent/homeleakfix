@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:57:10+03:00'
 draft: false
 slug: basement-odour-and-musty-smell-leak-damp-or-ventilation-prob
 categories:
-- Seasonal Prevention
-- Basements & Foundations
+- seasonal-prevention
+- basements-foundations
 tags:
 - musty smell basement
 - basement odour

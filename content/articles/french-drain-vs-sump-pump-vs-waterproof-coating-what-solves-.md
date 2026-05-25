@@ -6,9 +6,9 @@ lastmod: '2026-05-25T11:48:01+03:00'
 draft: false
 slug: french-drain-vs-sump-pump-vs-waterproof-coating-what-solves-
 categories:
-- Basements & Foundations
-- Flat Roof Leaks
-- Sealants & Materials
+- basements-foundations
+- flat-roof-leaks
+- sealants-materials
 tags:
 - french drain vs sump pump
 - basement drainage

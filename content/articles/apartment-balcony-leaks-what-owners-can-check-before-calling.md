@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:23:25+03:00'
 draft: false
 slug: apartment-balcony-leaks-what-owners-can-check-before-calling
 categories:
-- Balconies & Exterior Concrete
+- balconies-exterior-concrete
 tags:
 - apartment balcony leak
 - flat balcony leak

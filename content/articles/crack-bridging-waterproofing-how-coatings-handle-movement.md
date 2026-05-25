@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:54:50+03:00'
 draft: false
 slug: crack-bridging-waterproofing-how-coatings-handle-movement
 categories:
-- Sealants & Materials
+- sealants-materials
 tags:
 - crack bridging waterproofing
 - flexible membrane cracks

@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:44:10+03:00'
 draft: false
 slug: ms-polymer-sealant-explained-waterproofing-uses-around-the-h
 categories:
-- Sealants & Materials
+- sealants-materials
 tags:
 - ms polymer sealant
 - hybrid sealant

@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:35:23+03:00'
 draft: false
 slug: rainwater-runoff-around-the-house-simple-fixes-before-waterp
 categories:
-- Windows, Doors & Walls
-- Basements & Foundations
+- windows-doors-walls
+- basements-foundations
 tags:
 - rainwater runoff around house
 - surface drainage

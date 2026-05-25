@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:46:18+03:00'
 draft: false
 slug: dehumidifier-vs-waterproofing-why-dry-air-does-not-fix-every
 categories:
-- Basements & Foundations
+- basements-foundations
 tags:
 - dehumidifier vs waterproofing
 - basement humidity

@@ -6,8 +6,8 @@ lastmod: '2026-05-25T13:15:47+03:00'
 draft: false
 slug: balcony-door-leaks-tracks-thresholds-and-drainage-channels
 categories:
-- Windows, Doors & Walls
-- Balconies & Exterior Concrete
+- windows-doors-walls
+- balconies-exterior-concrete
 tags:
 - balcony door leak
 - sliding door leak

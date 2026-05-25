@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:26:11+03:00'
 draft: false
 slug: old-european-masonry-and-damp-breathability-vs-waterproof-ba
 categories:
-- Windows, Doors & Walls
+- windows-doors-walls
 tags:
 - old masonry damp breathability
 - lime mortar damp

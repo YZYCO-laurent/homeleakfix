@@ -6,9 +6,9 @@ lastmod: '2026-05-25T10:57:22+03:00'
 draft: false
 slug: old-house-waterproofing-guide-protecting-masonry-basements-r
 categories:
-- Basements & Foundations
-- Windows, Doors & Walls
-- Gutters & Downspouts
+- basements-foundations
+- windows-doors-walls
+- gutters-downspouts
 tags:
 - old house waterproofing
 - old masonry damp

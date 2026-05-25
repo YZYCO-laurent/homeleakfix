@@ -6,9 +6,9 @@ lastmod: '2026-05-25T10:51:22+03:00'
 draft: false
 slug: complete-guide-to-home-waterproofing-roofs-gutters-basements
 categories:
-- Start Here
-- Basements & Foundations
-- Bathrooms & Wet Rooms
+- start-here
+- basements-foundations
+- bathrooms-wet-rooms
 tags:
 - home waterproofing guide
 - home leak prevention

@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:08:42+03:00'
 draft: false
 slug: door-threshold-leaks-why-water-enters-under-external-doors
 categories:
-- Windows, Doors & Walls
+- windows-doors-walls
 tags:
 - door threshold leak
 - water under door

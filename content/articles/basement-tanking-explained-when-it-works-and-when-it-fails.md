@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:42:12+03:00'
 draft: false
 slug: basement-tanking-explained-when-it-works-and-when-it-fails
 categories:
-- Basements & Foundations
+- basements-foundations
 tags:
 - basement tanking
 - tanking slurry

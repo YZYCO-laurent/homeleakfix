@@ -6,7 +6,7 @@ lastmod: '2026-05-25T10:57:52+03:00'
 draft: false
 slug: emergency-leak-repair-guide-what-to-do-during-heavy-rain-bef
 categories:
-- Emergency Repairs
+- emergency-repairs
 tags:
 - emergency leak repair
 - temporary roof leak fix

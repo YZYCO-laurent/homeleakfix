@@ -6,7 +6,7 @@ lastmod: '2026-05-25T10:58:16+03:00'
 draft: false
 slug: why-flat-roofs-leak-the-most-common-causes-homeowners-miss
 categories:
-- Flat Roof Leaks
+- flat-roof-leaks
 tags:
 - why flat roofs leak
 - flat roof leak causes

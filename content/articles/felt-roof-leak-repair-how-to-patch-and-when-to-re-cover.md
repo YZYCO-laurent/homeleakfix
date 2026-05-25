@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:08:00+03:00'
 draft: false
 slug: felt-roof-leak-repair-how-to-patch-and-when-to-re-cover
 categories:
-- Flat Roof Leaks
+- flat-roof-leaks
 tags:
 - felt roof leak repair
 - roof felt repair

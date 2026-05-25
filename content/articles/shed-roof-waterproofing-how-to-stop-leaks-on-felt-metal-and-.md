@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:11:17+03:00'
 draft: false
 slug: shed-roof-waterproofing-how-to-stop-leaks-on-felt-metal-and-
 categories:
-- Sealants & Materials
+- sealants-materials
 tags:
 - shed roof waterproofing
 - shed roof leak repair

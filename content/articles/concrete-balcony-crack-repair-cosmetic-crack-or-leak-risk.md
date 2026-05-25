@@ -6,9 +6,9 @@ lastmod: '2026-05-25T12:05:20+03:00'
 draft: false
 slug: concrete-balcony-crack-repair-cosmetic-crack-or-leak-risk
 categories:
-- Balconies & Exterior Concrete
-- Sealants & Materials
-- Flat Roof Leaks
+- balconies-exterior-concrete
+- sealants-materials
+- flat-roof-leaks
 tags:
 - concrete balcony crack repair
 - balcony crack waterproofing

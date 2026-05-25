@@ -6,8 +6,8 @@ lastmod: '2026-05-25T13:06:19+03:00'
 draft: false
 slug: window-leak-after-rain-frame-sill-sealant-or-wall-problem
 categories:
-- Windows, Doors & Walls
-- Sealants & Materials
+- windows-doors-walls
+- sealants-materials
 tags:
 - window leak after rain
 - leaking window frame

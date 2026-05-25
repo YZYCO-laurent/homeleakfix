@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:09:55+03:00'
 draft: false
 slug: waterproofing-around-wall-penetrations-pipes-cables-vents-an
 categories:
-- Windows, Doors & Walls
+- windows-doors-walls
 tags:
 - waterproofing wall penetrations
 - seal around pipe exterior

@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:03:46+03:00'
 draft: false
 slug: can-you-waterproof-over-existing-balcony-tiles
 categories:
-- Bathrooms & Wet Rooms
-- Balconies & Exterior Concrete
+- bathrooms-wet-rooms
+- balconies-exterior-concrete
 tags:
 - waterproof over existing balcony tiles
 - balcony tile leak repair

@@ -6,8 +6,8 @@ lastmod: '2026-05-25T10:56:48+03:00'
 draft: false
 slug: waterproofing-materials-comparison-bitumen-acrylic-silicone-
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - waterproofing materials comparison
 - bitumen vs polyurethane

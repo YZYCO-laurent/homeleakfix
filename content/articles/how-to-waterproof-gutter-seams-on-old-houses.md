@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:33:53+03:00'
 draft: false
 slug: how-to-waterproof-gutter-seams-on-old-houses
 categories:
-- Gutters & Downspouts
-- Basements & Foundations
+- gutters-downspouts
+- basements-foundations
 tags:
 - waterproof gutter seams
 - old gutter repair

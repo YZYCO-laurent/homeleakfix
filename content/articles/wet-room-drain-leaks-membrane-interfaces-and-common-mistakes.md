@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:36:31+03:00'
 draft: false
 slug: wet-room-drain-leaks-membrane-interfaces-and-common-mistakes
 categories:
-- Bathrooms & Wet Rooms
-- Sealants & Materials
+- bathrooms-wet-rooms
+- sealants-materials
 tags:
 - wet room drain leak
 - wet room drain waterproofing

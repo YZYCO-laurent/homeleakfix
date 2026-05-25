@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:51:13+03:00'
 draft: false
 slug: solvent-free-waterproofing-benefits-limits-and-indoor-use
 categories:
-- Sealants & Materials
-- Windows, Doors & Walls
+- sealants-materials
+- windows-doors-walls
 tags:
 - solvent free waterproofing
 - low odour sealant

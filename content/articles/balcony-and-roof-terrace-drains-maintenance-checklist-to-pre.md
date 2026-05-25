@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:34:51+03:00'
 draft: false
 slug: balcony-and-roof-terrace-drains-maintenance-checklist-to-pre
 categories:
-- Seasonal Prevention
-- Balconies & Exterior Concrete
+- seasonal-prevention
+- balconies-exterior-concrete
 tags:
 - balcony drain maintenance
 - terrace drain blocked

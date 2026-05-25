@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:40:28+03:00'
 draft: false
 slug: interior-vs-exterior-basement-waterproofing-pros-cons-and-co
 categories:
-- Basements & Foundations
+- basements-foundations
 tags:
 - interior vs exterior basement waterproofing
 - basement waterproofing methods

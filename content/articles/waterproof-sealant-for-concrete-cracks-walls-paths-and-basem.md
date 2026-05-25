@@ -6,9 +6,9 @@ lastmod: '2026-05-25T12:45:49+03:00'
 draft: false
 slug: waterproof-sealant-for-concrete-cracks-walls-paths-and-basem
 categories:
-- Windows, Doors & Walls
-- Balconies & Exterior Concrete
-- Sealants & Materials
+- windows-doors-walls
+- balconies-exterior-concrete
+- sealants-materials
 tags:
 - waterproof sealant for concrete
 - concrete crack sealant

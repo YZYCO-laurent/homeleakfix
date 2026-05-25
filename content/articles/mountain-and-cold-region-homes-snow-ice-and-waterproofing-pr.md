@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:22:24+03:00'
 draft: false
 slug: mountain-and-cold-region-homes-snow-ice-and-waterproofing-pr
 categories:
-- Seasonal Prevention
+- seasonal-prevention
 tags:
 - snow region waterproofing
 - ice dam leak

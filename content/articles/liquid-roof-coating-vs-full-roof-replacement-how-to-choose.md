@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:04:40+03:00'
 draft: false
 slug: liquid-roof-coating-vs-full-roof-replacement-how-to-choose
 categories:
-- Flat Roof Leaks
-- Sealants & Materials
+- flat-roof-leaks
+- sealants-materials
 tags:
 - liquid roof coating vs replacement
 - roof restoration vs replacement

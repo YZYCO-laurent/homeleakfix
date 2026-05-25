@@ -6,8 +6,8 @@ lastmod: '2026-05-25T13:10:24+03:00'
 draft: false
 slug: skylight-leaks-condensation-flashing-or-failed-sealant
 categories:
-- Seasonal Prevention
-- Sealants & Materials
+- seasonal-prevention
+- sealants-materials
 tags:
 - skylight leak
 - leaking roof window

@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:24:32+03:00'
 draft: false
 slug: rental-home-leak-checklist-what-tenants-should-document
 categories:
-- Seasonal Prevention
+- seasonal-prevention
 tags:
 - rental home leak checklist
 - tenant water leak

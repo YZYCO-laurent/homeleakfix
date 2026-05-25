@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:30:31+03:00'
 draft: false
 slug: grout-vs-silicone-in-bathrooms-where-each-belongs
 categories:
-- Bathrooms & Wet Rooms
-- Sealants & Materials
+- bathrooms-wet-rooms
+- sealants-materials
 tags:
 - grout vs silicone bathroom
 - silicone sealant bathroom

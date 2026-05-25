@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:39:30+03:00'
 draft: false
 slug: rising-damp-vs-penetrating-damp-vs-condensation-how-to-tell-
 categories:
-- Seasonal Prevention
+- seasonal-prevention
 tags:
 - rising damp vs penetrating damp vs condensation
 - damp diagnosis

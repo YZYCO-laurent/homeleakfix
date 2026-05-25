@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:04:46+03:00'
 draft: false
 slug: balcony-drainage-problems-ponding-blocked-outlets-and-bad-fa
 categories:
-- Balconies & Exterior Concrete
+- balconies-exterior-concrete
 tags:
 - balcony drainage problems
 - balcony water pooling

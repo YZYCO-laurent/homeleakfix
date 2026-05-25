@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:07:55+03:00'
 draft: false
 slug: garden-wall-waterproofing-damp-efflorescence-and-frost-damag
 categories:
-- Balconies & Exterior Concrete
-- Windows, Doors & Walls
+- balconies-exterior-concrete
+- windows-doors-walls
 tags:
 - garden wall waterproofing
 - damp garden wall

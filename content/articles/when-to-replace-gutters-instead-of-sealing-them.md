@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:25:33+03:00'
 draft: false
 slug: when-to-replace-gutters-instead-of-sealing-them
 categories:
-- Basements & Foundations
-- Gutters & Downspouts
+- basements-foundations
+- gutters-downspouts
 tags:
 - repair or replace gutters
 - gutter replacement signs

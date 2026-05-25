@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:16:24+03:00'
 draft: false
 slug: roof-coating-drying-time-rain-temperature-and-humidity-expla
 categories:
-- Flat Roof Leaks
-- Sealants & Materials
+- flat-roof-leaks
+- sealants-materials
 tags:
 - roof coating drying time
 - waterproof coating cure time

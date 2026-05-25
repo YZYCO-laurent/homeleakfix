@@ -6,9 +6,9 @@ lastmod: '2026-05-25T12:08:56+03:00'
 draft: false
 slug: waterproofing-outdoor-wood-decks-sheds-planters-and-garden-f
 categories:
-- Windows, Doors & Walls
-- Balconies & Exterior Concrete
-- Sealants & Materials
+- windows-doors-walls
+- balconies-exterior-concrete
+- sealants-materials
 tags:
 - waterproofing outdoor wood
 - wood waterproof sealant

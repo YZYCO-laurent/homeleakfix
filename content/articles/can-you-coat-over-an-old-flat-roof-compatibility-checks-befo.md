@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:20:50+03:00'
 draft: false
 slug: can-you-coat-over-an-old-flat-roof-compatibility-checks-befo
 categories:
-- Flat Roof Leaks
-- Sealants & Materials
+- flat-roof-leaks
+- sealants-materials
 tags:
 - coat over old flat roof
 - roof coating compatibility

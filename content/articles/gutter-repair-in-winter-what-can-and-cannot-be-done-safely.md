@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:36:21+03:00'
 draft: false
 slug: gutter-repair-in-winter-what-can-and-cannot-be-done-safely
 categories:
-- Seasonal Prevention
-- Gutters & Downspouts
+- seasonal-prevention
+- gutters-downspouts
 tags:
 - gutter repair in winter
 - winter gutter leak

@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:27:07+03:00'
 draft: false
 slug: gutters-overflowing-in-heavy-rain-size-clogs-pitch-and-roof-
 categories:
-- Basements & Foundations
-- Gutters & Downspouts
+- basements-foundations
+- gutters-downspouts
 tags:
 - gutters overflowing in heavy rain
 - overflowing gutters

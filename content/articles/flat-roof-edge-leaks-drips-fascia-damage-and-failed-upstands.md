@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:12:19+03:00'
 draft: false
 slug: flat-roof-edge-leaks-drips-fascia-damage-and-failed-upstands
 categories:
-- Flat Roof Leaks
+- flat-roof-leaks
 tags:
 - flat roof edge leak
 - roof edge waterproofing

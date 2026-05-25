@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:10:21+03:00'
 draft: false
 slug: metal-roof-leak-repair-screws-seams-flashing-and-coatings
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - metal roof leak repair
 - leaking metal roof

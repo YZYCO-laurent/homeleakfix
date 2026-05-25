@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:00:52+03:00'
 draft: false
 slug: balcony-waterproofing-guide-how-to-stop-water-entering-the-s
 categories:
-- Balconies & Exterior Concrete
+- balconies-exterior-concrete
 tags:
 - balcony waterproofing
 - waterproof balcony floor

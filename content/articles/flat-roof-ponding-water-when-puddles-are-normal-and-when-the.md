@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:00:25+03:00'
 draft: false
 slug: flat-roof-ponding-water-when-puddles-are-normal-and-when-the
 categories:
-- Flat Roof Leaks
+- flat-roof-leaks
 tags:
 - flat roof ponding water
 - ponding on flat roof

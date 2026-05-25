@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:53:04+03:00'
 draft: false
 slug: hydraulic-cement-for-active-water-leaks-useful-patch-or-temp
 categories:
-- Basements & Foundations
-- Emergency Repairs
+- basements-foundations
+- emergency-repairs
 tags:
 - hydraulic cement active water leak
 - stop active water leak

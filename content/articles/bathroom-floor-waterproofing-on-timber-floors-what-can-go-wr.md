@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:28:49+03:00'
 draft: false
 slug: bathroom-floor-waterproofing-on-timber-floors-what-can-go-wr
 categories:
-- Bathrooms & Wet Rooms
+- bathrooms-wet-rooms
 tags:
 - bathroom floor waterproofing timber
 - waterproof bathroom floor wood

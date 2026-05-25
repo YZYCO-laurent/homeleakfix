@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:07:36+03:00'
 draft: false
 slug: how-to-seal-exterior-window-frames-against-driving-rain
 categories:
-- Windows, Doors & Walls
+- windows-doors-walls
 tags:
 - seal exterior window frame
 - window frame sealant

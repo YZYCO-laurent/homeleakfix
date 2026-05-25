@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:54:14+03:00'
 draft: false
 slug: damp-surface-sealants-can-waterproofing-stick-to-wet-materia
 categories:
-- Sealants & Materials
+- sealants-materials
 tags:
 - sealant for damp surfaces
 - wet surface sealant

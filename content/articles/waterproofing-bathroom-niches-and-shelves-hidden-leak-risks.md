@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:35:34+03:00'
 draft: false
 slug: waterproofing-bathroom-niches-and-shelves-hidden-leak-risks
 categories:
-- Bathrooms & Wet Rooms
-- Seasonal Prevention
+- bathrooms-wet-rooms
+- seasonal-prevention
 tags:
 - waterproofing shower niche
 - bathroom niche leak

@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:32:13+03:00'
 draft: false
 slug: leaking-gutter-end-caps-causes-and-repair-steps
 categories:
-- Gutters & Downspouts
-- Basements & Foundations
+- gutters-downspouts
+- basements-foundations
 tags:
 - leaking gutter end cap
 - gutter end cap sealant

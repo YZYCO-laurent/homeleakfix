@@ -6,7 +6,7 @@ lastmod: '2026-05-25T10:58:46+03:00'
 draft: false
 slug: how-to-find-a-leak-in-a-flat-roof-without-guesswork
 categories:
-- Flat Roof Leaks
+- flat-roof-leaks
 tags:
 - how to find a flat roof leak
 - flat roof leak detection

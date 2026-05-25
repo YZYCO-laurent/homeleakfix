@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:52:40+03:00'
 draft: false
 slug: why-waterproof-coatings-fail-dirt-moisture-movement-and-wron
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - why waterproof coatings fail
 - waterproof coating failure

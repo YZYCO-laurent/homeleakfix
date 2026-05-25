@@ -6,9 +6,9 @@ lastmod: '2026-05-25T12:31:36+03:00'
 draft: false
 slug: how-to-reseal-a-shower-preparation-drying-and-curing-time
 categories:
-- Bathrooms & Wet Rooms
-- Sealants & Materials
-- Seasonal Prevention
+- bathrooms-wet-rooms
+- sealants-materials
+- seasonal-prevention
 tags:
 - how to reseal a shower
 - replace shower silicone

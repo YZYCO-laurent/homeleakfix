@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:53:12+03:00'
 draft: false
 slug: how-to-clean-a-surface-before-applying-waterproof-sealant
 categories:
-- Sealants & Materials
+- sealants-materials
 tags:
 - clean surface before sealant
 - surface preparation sealant

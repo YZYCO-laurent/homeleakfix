@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:10:27+03:00'
 draft: false
 slug: exterior-wall-damp-after-rain-render-cracks-gutters-or-groun
 categories:
-- Windows, Doors & Walls
-- Gutters & Downspouts
+- windows-doors-walls
+- gutters-downspouts
 tags:
 - exterior wall damp after rain
 - penetrating damp

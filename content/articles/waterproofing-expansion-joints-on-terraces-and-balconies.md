@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:15:06+03:00'
 draft: false
 slug: waterproofing-expansion-joints-on-terraces-and-balconies
 categories:
-- Balconies & Exterior Concrete
+- balconies-exterior-concrete
 tags:
 - waterproofing expansion joints
 - balcony movement joint

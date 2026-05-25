@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:52:38+03:00'
 draft: false
 slug: polyurethane-injection-for-leaking-basement-cracks-how-it-wo
 categories:
-- Basements & Foundations
-- Sealants & Materials
+- basements-foundations
+- sealants-materials
 tags:
 - polyurethane injection basement crack
 - crack injection waterproofing

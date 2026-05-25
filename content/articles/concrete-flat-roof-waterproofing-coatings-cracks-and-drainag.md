@@ -6,9 +6,9 @@ lastmod: '2026-05-25T11:09:55+03:00'
 draft: false
 slug: concrete-flat-roof-waterproofing-coatings-cracks-and-drainag
 categories:
-- Flat Roof Leaks
-- Sealants & Materials
-- Balconies & Exterior Concrete
+- flat-roof-leaks
+- sealants-materials
+- balconies-exterior-concrete
 tags:
 - concrete flat roof waterproofing
 - concrete roof coating

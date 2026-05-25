@@ -6,7 +6,7 @@ lastmod: '2026-05-25T10:51:51+03:00'
 draft: false
 slug: complete-guide-to-finding-and-fixing-home-leaks-before-they-
 categories:
-- Start Here
+- start-here
 tags:
 - how to find a leak in a house
 - home leak detection

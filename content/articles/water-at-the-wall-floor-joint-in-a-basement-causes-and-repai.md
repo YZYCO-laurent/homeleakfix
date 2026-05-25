@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:38:58+03:00'
 draft: false
 slug: water-at-the-wall-floor-joint-in-a-basement-causes-and-repai
 categories:
-- Basements & Foundations
-- Windows, Doors & Walls
+- basements-foundations
+- windows-doors-walls
 tags:
 - water at basement wall floor joint
 - cove joint leak

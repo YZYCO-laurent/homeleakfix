@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:02:36+03:00'
 draft: false
 slug: leaking-balcony-after-rain-how-to-find-the-failure-point
 categories:
-- Balconies & Exterior Concrete
+- balconies-exterior-concrete
 tags:
 - leaking balcony after rain
 - balcony leak detection

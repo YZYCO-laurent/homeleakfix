@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:18:31+03:00'
 draft: false
 slug: flat-roof-drainage-problems-blocked-outlets-incorrect-falls-
 categories:
-- Flat Roof Leaks
+- flat-roof-leaks
 tags:
 - flat roof drainage problems
 - blocked roof drain

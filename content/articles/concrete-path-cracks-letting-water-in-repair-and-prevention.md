@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:07:23+03:00'
 draft: false
 slug: concrete-path-cracks-letting-water-in-repair-and-prevention
 categories:
-- Balconies & Exterior Concrete
-- Seasonal Prevention
+- balconies-exterior-concrete
+- seasonal-prevention
 tags:
 - concrete path crack repair
 - cracked concrete path

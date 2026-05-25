@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:26:16+03:00'
 draft: false
 slug: leaking-shower-tray-causes-checks-and-repair-options
 categories:
-- Bathrooms & Wet Rooms
+- bathrooms-wet-rooms
 tags:
 - leaking shower tray
 - shower tray leak repair

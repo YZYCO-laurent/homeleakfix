@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:02:12+03:00'
 draft: false
 slug: one-component-waterproofing-products-convenience-and-limitat
 categories:
-- Sealants & Materials
+- sealants-materials
 tags:
 - one component waterproofing
 - ready to use waterproofing

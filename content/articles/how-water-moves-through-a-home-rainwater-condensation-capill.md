@@ -6,7 +6,7 @@ lastmod: '2026-05-25T10:56:21+03:00'
 draft: false
 slug: how-water-moves-through-a-home-rainwater-condensation-capill
 categories:
-- Seasonal Prevention
+- seasonal-prevention
 tags:
 - how water enters a house
 - moisture movement

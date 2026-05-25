@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:54:33+03:00'
 draft: false
 slug: basement-floor-cracks-leaking-what-the-pattern-tells-you
 categories:
-- Basements & Foundations
+- basements-foundations
 tags:
 - basement floor crack leaking
 - water through basement floor

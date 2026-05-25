@@ -6,9 +6,9 @@ lastmod: '2026-05-25T12:20:02+03:00'
 draft: false
 slug: waterproofing-under-outdoor-tiles-on-concrete-best-practice-
 categories:
-- Balconies & Exterior Concrete
-- Bathrooms & Wet Rooms
-- Windows, Doors & Walls
+- balconies-exterior-concrete
+- bathrooms-wet-rooms
+- windows-doors-walls
 tags:
 - waterproofing under outdoor tiles
 - tile membrane outdoor

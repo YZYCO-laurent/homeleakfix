@@ -6,8 +6,8 @@ lastmod: '2026-05-25T13:12:06+03:00'
 draft: false
 slug: sealant-around-vents-and-extractor-fans-preventing-rain-ingr
 categories:
-- Sealants & Materials
-- Bathrooms & Wet Rooms
+- sealants-materials
+- bathrooms-wet-rooms
 tags:
 - sealant around exterior vent
 - extractor fan leak

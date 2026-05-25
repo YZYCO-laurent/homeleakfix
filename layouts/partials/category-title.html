@@ -1,0 +1,1 @@
+{{- $slug := . -}}{{- with index site.Params.categories $slug -}}{{ .title }}{{- else -}}{{ replace $slug "-" " " | title }}{{- end -}}

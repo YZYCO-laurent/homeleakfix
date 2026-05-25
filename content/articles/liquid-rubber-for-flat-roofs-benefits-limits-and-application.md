@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:05:43+03:00'
 draft: false
 slug: liquid-rubber-for-flat-roofs-benefits-limits-and-application
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - liquid rubber for flat roof
 - rubber roof coating

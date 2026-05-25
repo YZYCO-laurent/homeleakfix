@@ -6,9 +6,9 @@ lastmod: '2026-05-25T11:23:05+03:00'
 draft: false
 slug: how-to-seal-a-leaking-gutter-corner-without-making-it-worse
 categories:
-- Sealants & Materials
-- Gutters & Downspouts
-- Basements & Foundations
+- sealants-materials
+- gutters-downspouts
+- basements-foundations
 tags:
 - seal leaking gutter corner
 - gutter corner seam leak

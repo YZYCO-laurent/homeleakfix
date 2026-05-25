@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:43:19+03:00'
 draft: false
 slug: foundation-crack-leaking-water-repair-options-and-warning-si
 categories:
-- Basements & Foundations
+- basements-foundations
 tags:
 - foundation crack leaking water
 - basement wall crack repair

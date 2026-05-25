@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:17:11+03:00'
 draft: false
 slug: balcony-edge-waterproofing-drips-upstands-and-parapets
 categories:
-- Balconies & Exterior Concrete
+- balconies-exterior-concrete
 tags:
 - balcony edge waterproofing
 - balcony drip edge

@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:20:39+03:00'
 draft: false
 slug: driving-rain-on-exterior-walls-why-some-homes-leak-sideways
 categories:
-- Windows, Doors & Walls
+- windows-doors-walls
 tags:
 - driving rain wall leak
 - penetrating damp driving rain

@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:32:46+03:00'
 draft: false
 slug: waterproofing-around-pipe-penetrations-in-bathrooms
 categories:
-- Bathrooms & Wet Rooms
+- bathrooms-wet-rooms
 tags:
 - waterproofing pipe penetrations bathroom
 - pipe collar waterproofing

@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:29:18+03:00'
 draft: false
 slug: insurance-and-home-leaks-what-to-document-before-repairs
 categories:
-- Emergency Repairs
+- emergency-repairs
 tags:
 - document water leak for insurance
 - water damage documentation

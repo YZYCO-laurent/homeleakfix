@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:18:00+03:00'
 draft: false
 slug: flat-roof-maintenance-checklist-what-to-inspect-every-spring
 categories:
-- Seasonal Prevention
-- Flat Roof Leaks
+- seasonal-prevention
+- flat-roof-leaks
 tags:
 - flat roof maintenance checklist
 - roof inspection checklist

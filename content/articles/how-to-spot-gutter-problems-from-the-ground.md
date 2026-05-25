@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:35:52+03:00'
 draft: false
 slug: how-to-spot-gutter-problems-from-the-ground
 categories:
-- Gutters & Downspouts
-- Basements & Foundations
+- gutters-downspouts
+- basements-foundations
 tags:
 - spot gutter problems
 - gutter inspection

@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:24:38+03:00'
 draft: false
 slug: how-to-fix-small-holes-in-metal-gutters
 categories:
-- Gutters & Downspouts
-- Basements & Foundations
+- gutters-downspouts
+- basements-foundations
 tags:
 - fix holes in metal gutters
 - metal gutter repair

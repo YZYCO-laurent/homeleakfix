@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:58:20+03:00'
 draft: false
 slug: polyurethane-vs-bitumen-waterproofing-durability-flexibility
 categories:
-- Sealants & Materials
+- sealants-materials
 tags:
 - polyurethane vs bitumen waterproofing
 - pu waterproofing

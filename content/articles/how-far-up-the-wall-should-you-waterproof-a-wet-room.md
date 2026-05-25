@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:24:46+03:00'
 draft: false
 slug: how-far-up-the-wall-should-you-waterproof-a-wet-room
 categories:
-- Bathrooms & Wet Rooms
-- Windows, Doors & Walls
+- bathrooms-wet-rooms
+- windows-doors-walls
 tags:
 - how far up wall waterproof wet room
 - wet room tanking height

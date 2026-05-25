@@ -6,9 +6,9 @@ lastmod: '2026-05-25T12:13:56+03:00'
 draft: false
 slug: frost-resistant-waterproofing-protecting-outdoor-surfaces-in
 categories:
-- Balconies & Exterior Concrete
-- Seasonal Prevention
-- Windows, Doors & Walls
+- balconies-exterior-concrete
+- seasonal-prevention
+- windows-doors-walls
 tags:
 - frost resistant waterproofing
 - freeze thaw waterproofing

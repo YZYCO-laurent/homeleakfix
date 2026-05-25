@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:27:40+03:00'
 draft: false
 slug: can-clogged-gutters-cause-basement-damp-what-homeowners-shou
 categories:
-- Basements & Foundations
-- Gutters & Downspouts
+- basements-foundations
+- gutters-downspouts
 tags:
 - clogged gutters basement damp
 - gutters causing basement water

@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:32:45+03:00'
 draft: false
 slug: water-running-behind-gutters-fascia-drip-edge-and-roofline-p
 categories:
-- Gutters & Downspouts
-- Basements & Foundations
+- gutters-downspouts
+- basements-foundations
 tags:
 - water running behind gutters
 - gutter behind fascia leak

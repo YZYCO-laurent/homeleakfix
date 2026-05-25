@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:24:10+03:00'
 draft: false
 slug: gutter-sealant-vs-caulk-which-one-should-you-use-outside
 categories:
-- Sealants & Materials
-- Gutters & Downspouts
+- sealants-materials
+- gutters-downspouts
 tags:
 - gutter sealant vs caulk
 - silicone gutter sealant

@@ -6,8 +6,8 @@ lastmod: '2026-05-25T13:16:46+03:00'
 draft: false
 slug: autumn-waterproofing-jobs-before-leaves-and-storms-arrive
 categories:
-- Seasonal Prevention
-- Basements & Foundations
+- seasonal-prevention
+- basements-foundations
 tags:
 - autumn waterproofing jobs
 - fall gutter cleaning

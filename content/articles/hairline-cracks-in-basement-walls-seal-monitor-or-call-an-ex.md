@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:43:48+03:00'
 draft: false
 slug: hairline-cracks-in-basement-walls-seal-monitor-or-call-an-ex
 categories:
-- Basements & Foundations
-- Windows, Doors & Walls
+- basements-foundations
+- windows-doors-walls
 tags:
 - hairline cracks basement wall
 - basement crack repair

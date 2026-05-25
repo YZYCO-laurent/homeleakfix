@@ -6,7 +6,7 @@ lastmod: '2026-05-25T10:55:21+03:00'
 draft: false
 slug: seasonal-home-leak-prevention-checklist-for-european-weather
 categories:
-- Seasonal Prevention
+- seasonal-prevention
 tags:
 - home leak prevention checklist
 - winter waterproofing

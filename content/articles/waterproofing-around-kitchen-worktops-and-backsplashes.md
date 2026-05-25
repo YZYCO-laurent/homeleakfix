@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:39:09+03:00'
 draft: false
 slug: waterproofing-around-kitchen-worktops-and-backsplashes
 categories:
-- Sealants & Materials
+- sealants-materials
 tags:
 - waterproofing kitchen worktop
 - kitchen backsplash sealant

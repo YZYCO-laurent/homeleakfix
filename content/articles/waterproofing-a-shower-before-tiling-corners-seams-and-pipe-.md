@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:25:15+03:00'
 draft: false
 slug: waterproofing-a-shower-before-tiling-corners-seams-and-pipe-
 categories:
-- Bathrooms & Wet Rooms
-- Basements & Foundations
+- bathrooms-wet-rooms
+- basements-foundations
 tags:
 - waterproofing shower before tiling
 - shower membrane seams

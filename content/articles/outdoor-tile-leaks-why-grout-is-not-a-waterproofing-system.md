@@ -6,9 +6,9 @@ lastmod: '2026-05-25T12:18:15+03:00'
 draft: false
 slug: outdoor-tile-leaks-why-grout-is-not-a-waterproofing-system
 categories:
-- Bathrooms & Wet Rooms
-- Balconies & Exterior Concrete
-- Windows, Doors & Walls
+- bathrooms-wet-rooms
+- balconies-exterior-concrete
+- windows-doors-walls
 tags:
 - outdoor tile leaks
 - leaking outdoor tiles

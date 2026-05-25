@@ -6,9 +6,9 @@ lastmod: '2026-05-25T13:00:26+03:00'
 draft: false
 slug: waterproof-coating-coverage-how-to-estimate-litres-or-kilogr
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
-- Basements & Foundations
+- sealants-materials
+- flat-roof-leaks
+- basements-foundations
 tags:
 - waterproof coating coverage
 - how much roof coating

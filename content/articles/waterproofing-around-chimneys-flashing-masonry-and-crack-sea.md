@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:09:56+03:00'
 draft: false
 slug: waterproofing-around-chimneys-flashing-masonry-and-crack-sea
 categories:
-- Windows, Doors & Walls
+- windows-doors-walls
 tags:
 - waterproofing around chimney
 - chimney leak repair

@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:53:59+03:00'
 draft: false
 slug: damp-proof-course-failure-signs-diagnosis-and-next-steps
 categories:
-- Basements & Foundations
+- basements-foundations
 tags:
 - damp proof course failure
 - rising damp signs

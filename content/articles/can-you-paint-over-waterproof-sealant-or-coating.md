@@ -6,8 +6,8 @@ lastmod: '2026-05-25T13:05:12+03:00'
 draft: false
 slug: can-you-paint-over-waterproof-sealant-or-coating
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - paint over waterproof sealant
 - paintable sealant

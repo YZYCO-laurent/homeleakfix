@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:56:46+03:00'
 draft: false
 slug: waterproofing-tape-and-fabric-reinforcement-when-a-coating-i
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - waterproofing reinforcement tape
 - roof coating fabric

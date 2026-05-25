@@ -6,7 +6,7 @@ lastmod: '2026-05-25T10:55:53+03:00'
 draft: false
 slug: diy-waterproofing-vs-professional-repair-how-to-decide-safel
 categories:
-- Start Here
+- start-here
 tags:
 - diy waterproofing vs professional
 - when to call roofer

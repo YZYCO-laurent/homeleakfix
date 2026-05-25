@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:29:58+03:00'
 draft: false
 slug: waterproofing-around-bathtubs-edges-silicone-and-movement
 categories:
-- Sealants & Materials
-- Bathrooms & Wet Rooms
+- sealants-materials
+- bathrooms-wet-rooms
 tags:
 - waterproofing around bathtub
 - bath sealant

@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:22:36+03:00'
 draft: false
 slug: why-grout-is-not-waterproof-what-every-bathroom-renovator-sh
 categories:
-- Bathrooms & Wet Rooms
+- bathrooms-wet-rooms
 tags:
 - is grout waterproof
 - grout waterproofing

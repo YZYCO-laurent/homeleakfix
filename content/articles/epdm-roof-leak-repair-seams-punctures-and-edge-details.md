@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:07:32+03:00'
 draft: false
 slug: epdm-roof-leak-repair-seams-punctures-and-edge-details
 categories:
-- Flat Roof Leaks
-- Sealants & Materials
+- flat-roof-leaks
+- sealants-materials
 tags:
 - epdm roof leak repair
 - rubber roof leak

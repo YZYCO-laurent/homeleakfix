@@ -6,9 +6,9 @@ lastmod: '2026-05-25T13:32:11+03:00'
 draft: false
 slug: waterproof-sealants-for-home-repairs-what-to-use-on-roofs-gu
 categories:
-- Sealants & Materials
-- Gutters & Downspouts
-- Basements & Foundations
+- sealants-materials
+- gutters-downspouts
+- basements-foundations
 tags:
 - waterproof sealant for home repair
 - roof sealant

@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:06:47+03:00'
 draft: false
 slug: outdoor-concrete-waterproofing-paths-steps-patios-and-small-
 categories:
-- Balconies & Exterior Concrete
-- Windows, Doors & Walls
+- balconies-exterior-concrete
+- windows-doors-walls
 tags:
 - outdoor concrete waterproofing
 - waterproof concrete patio

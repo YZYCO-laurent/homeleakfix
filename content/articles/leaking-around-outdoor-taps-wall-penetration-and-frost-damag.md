@@ -6,8 +6,8 @@ lastmod: '2026-05-25T13:13:08+03:00'
 draft: false
 slug: leaking-around-outdoor-taps-wall-penetration-and-frost-damag
 categories:
-- Windows, Doors & Walls
-- Balconies & Exterior Concrete
+- windows-doors-walls
+- balconies-exterior-concrete
 tags:
 - outdoor tap leak wall
 - outside tap wall leak

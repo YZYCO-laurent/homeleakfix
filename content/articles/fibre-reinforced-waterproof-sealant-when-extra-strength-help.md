@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:56:16+03:00'
 draft: false
 slug: fibre-reinforced-waterproof-sealant-when-extra-strength-help
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - fibre reinforced waterproof sealant
 - reinforced sealant

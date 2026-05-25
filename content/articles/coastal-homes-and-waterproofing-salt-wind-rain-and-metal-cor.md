@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:21:16+03:00'
 draft: false
 slug: coastal-homes-and-waterproofing-salt-wind-rain-and-metal-cor
 categories:
-- Seasonal Prevention
+- seasonal-prevention
 tags:
 - coastal home waterproofing
 - salt air corrosion

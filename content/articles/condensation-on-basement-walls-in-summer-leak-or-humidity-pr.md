@@ -6,9 +6,9 @@ lastmod: '2026-05-25T11:45:49+03:00'
 draft: false
 slug: condensation-on-basement-walls-in-summer-leak-or-humidity-pr
 categories:
-- Seasonal Prevention
-- Basements & Foundations
-- Windows, Doors & Walls
+- seasonal-prevention
+- basements-foundations
+- windows-doors-walls
 tags:
 - condensation on basement walls
 - basement condensation

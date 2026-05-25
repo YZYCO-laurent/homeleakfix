@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:44:47+03:00'
 draft: false
 slug: liquid-plastic-waterproofing-what-the-term-means-in-home-rep
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - liquid plastic waterproofing
 - liquid waterproofing

@@ -6,8 +6,8 @@ lastmod: '2026-05-25T13:19:32+03:00'
 draft: false
 slug: storm-damage-checklist-roofs-gutters-balconies-and-basements
 categories:
-- Basements & Foundations
-- Gutters & Downspouts
+- basements-foundations
+- gutters-downspouts
 tags:
 - storm damage leak checklist
 - after storm roof inspection

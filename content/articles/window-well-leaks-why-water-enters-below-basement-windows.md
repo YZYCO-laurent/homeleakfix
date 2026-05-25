@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:48:56+03:00'
 draft: false
 slug: window-well-leaks-why-water-enters-below-basement-windows
 categories:
-- Basements & Foundations
-- Windows, Doors & Walls
+- basements-foundations
+- windows-doors-walls
 tags:
 - window well leak
 - basement window leak

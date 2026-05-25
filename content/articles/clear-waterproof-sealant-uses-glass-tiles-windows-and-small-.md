@@ -6,9 +6,9 @@ lastmod: '2026-05-25T12:40:41+03:00'
 draft: false
 slug: clear-waterproof-sealant-uses-glass-tiles-windows-and-small-
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
-- Bathrooms & Wet Rooms
+- sealants-materials
+- flat-roof-leaks
+- bathrooms-wet-rooms
 tags:
 - clear waterproof sealant
 - transparent waterproof sealant

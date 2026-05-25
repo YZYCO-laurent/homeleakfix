@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:15:20+03:00'
 draft: false
 slug: how-many-coats-of-waterproof-roof-coating-do-you-need
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - how many coats roof coating
 - roof coating thickness

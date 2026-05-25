@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:10:45+03:00'
 draft: false
 slug: dormer-window-leaks-roof-cheeks-and-flashing-details
 categories:
-- Windows, Doors & Walls
+- windows-doors-walls
 tags:
 - dormer window leak
 - dormer flashing leak

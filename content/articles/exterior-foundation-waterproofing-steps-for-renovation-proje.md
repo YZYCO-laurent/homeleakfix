@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:58:43+03:00'
 draft: false
 slug: exterior-foundation-waterproofing-steps-for-renovation-proje
 categories:
-- Basements & Foundations
+- basements-foundations
 tags:
 - exterior foundation waterproofing steps
 - foundation waterproof membrane

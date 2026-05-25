@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:37:22+03:00'
 draft: false
 slug: waterproof-paint-in-bathrooms-what-it-can-and-cannot-replace
 categories:
-- Bathrooms & Wet Rooms
-- Sealants & Materials
+- bathrooms-wet-rooms
+- sealants-materials
 tags:
 - waterproof paint bathroom
 - bathroom waterproof paint

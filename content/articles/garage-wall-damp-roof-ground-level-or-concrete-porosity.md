@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:21:35+03:00'
 draft: false
 slug: garage-wall-damp-roof-ground-level-or-concrete-porosity
 categories:
-- Windows, Doors & Walls
-- Balconies & Exterior Concrete
+- windows-doors-walls
+- balconies-exterior-concrete
 tags:
 - garage wall damp
 - damp garage wall

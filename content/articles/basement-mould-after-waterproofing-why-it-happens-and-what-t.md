@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:44:38+03:00'
 draft: false
 slug: basement-mould-after-waterproofing-why-it-happens-and-what-t
 categories:
-- Seasonal Prevention
-- Basements & Foundations
+- seasonal-prevention
+- basements-foundations
 tags:
 - mould after basement waterproofing
 - basement mold

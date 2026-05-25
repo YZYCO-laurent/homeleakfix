@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:36:54+03:00'
 draft: false
 slug: bathroom-waterproofing-mistakes-that-cause-hidden-damp
 categories:
-- Bathrooms & Wet Rooms
+- bathrooms-wet-rooms
 tags:
 - bathroom waterproofing mistakes
 - shower waterproofing errors

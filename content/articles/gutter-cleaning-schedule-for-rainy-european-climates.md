@@ -6,9 +6,9 @@ lastmod: '2026-05-25T11:29:59+03:00'
 draft: false
 slug: gutter-cleaning-schedule-for-rainy-european-climates
 categories:
-- Seasonal Prevention
-- Gutters & Downspouts
-- Basements & Foundations
+- seasonal-prevention
+- gutters-downspouts
+- basements-foundations
 tags:
 - gutter cleaning schedule
 - when to clean gutters

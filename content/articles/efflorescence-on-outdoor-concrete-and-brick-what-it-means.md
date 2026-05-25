@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:12:09+03:00'
 draft: false
 slug: efflorescence-on-outdoor-concrete-and-brick-what-it-means
 categories:
-- Balconies & Exterior Concrete
-- Windows, Doors & Walls
+- balconies-exterior-concrete
+- windows-doors-walls
 tags:
 - efflorescence outdoor concrete
 - white salts on brick

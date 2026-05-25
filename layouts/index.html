@@ -27,7 +27,7 @@
   </div>
   <div class="category-grid">
     {{ range $slug, $cat := site.Params.categories }}
-      {{ $count := len (where $articles "Params.categories" "intersect" (slice $cat.title)) }}
+      {{ $count := len (where $articles "Params.categories" "intersect" (slice $slug)) }}
       <a class="category-card" href="/categories/{{ $slug }}/">
         <span class="category-icon">{{ substr $cat.title 0 1 }}</span>
         <strong>{{ $cat.title }}</strong>

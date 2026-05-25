@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:49:56+03:00'
 draft: false
 slug: soil-grading-around-foundations-the-cheapest-waterproofing-f
 categories:
-- Basements & Foundations
+- basements-foundations
 tags:
 - soil grading around foundation
 - slope away from house

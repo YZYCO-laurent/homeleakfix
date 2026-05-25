@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:35:04+03:00'
 draft: false
 slug: shower-pan-liner-vs-surface-membrane-which-is-better
 categories:
-- Bathrooms & Wet Rooms
-- Sealants & Materials
+- bathrooms-wet-rooms
+- sealants-materials
 tags:
 - shower pan liner vs membrane
 - surface membrane shower

@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:21:53+03:00'
 draft: false
 slug: why-gutters-leak-at-the-joints-and-how-to-fix-them
 categories:
-- Gutters & Downspouts
-- Basements & Foundations
+- gutters-downspouts
+- basements-foundations
 tags:
 - leaking gutter joints
 - gutter seam leak

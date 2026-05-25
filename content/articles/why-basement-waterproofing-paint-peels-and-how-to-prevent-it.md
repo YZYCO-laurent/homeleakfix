@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:56:43+03:00'
 draft: false
 slug: why-basement-waterproofing-paint-peels-and-how-to-prevent-it
 categories:
-- Basements & Foundations
-- Sealants & Materials
+- basements-foundations
+- sealants-materials
 tags:
 - basement waterproofing paint peeling
 - peeling wall coating

@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:22:09+03:00'
 draft: false
 slug: bathroom-waterproofing-before-tiling-what-must-be-sealed-fir
 categories:
-- Bathrooms & Wet Rooms
+- bathrooms-wet-rooms
 tags:
 - bathroom waterproofing before tiling
 - waterproof bathroom walls

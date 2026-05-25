@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:08:25+03:00'
 draft: false
 slug: retaining-wall-waterproofing-drainage-first-coatings-second
 categories:
-- Windows, Doors & Walls
-- Sealants & Materials
+- windows-doors-walls
+- sealants-materials
 tags:
 - retaining wall waterproofing
 - retaining wall drainage

@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:50:29+03:00'
 draft: false
 slug: bitumen-foundation-coating-uses-limits-and-alternatives
 categories:
-- Sealants & Materials
-- Basements & Foundations
+- sealants-materials
+- basements-foundations
 tags:
 - bitumen foundation coating
 - foundation waterproofing coating

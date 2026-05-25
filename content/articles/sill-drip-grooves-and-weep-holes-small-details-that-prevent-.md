@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:14:06+03:00'
 draft: false
 slug: sill-drip-grooves-and-weep-holes-small-details-that-prevent-
 categories:
-- Windows, Doors & Walls
+- windows-doors-walls
 tags:
 - window sill drip groove
 - window weep holes

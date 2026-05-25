@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:36:52+03:00'
 draft: false
 slug: leaking-conservatory-gutters-causes-and-diy-checks
 categories:
-- Gutters & Downspouts
-- Basements & Foundations
+- gutters-downspouts
+- basements-foundations
 tags:
 - conservatory gutter leak
 - conservatory water leak

@@ -6,9 +6,9 @@ lastmod: '2026-05-25T12:23:40+03:00'
 draft: false
 slug: wet-room-tanking-guide-floors-walls-corners-and-drains
 categories:
-- Bathrooms & Wet Rooms
-- Windows, Doors & Walls
-- Basements & Foundations
+- bathrooms-wet-rooms
+- windows-doors-walls
+- basements-foundations
 tags:
 - wet room tanking guide
 - wet room waterproofing

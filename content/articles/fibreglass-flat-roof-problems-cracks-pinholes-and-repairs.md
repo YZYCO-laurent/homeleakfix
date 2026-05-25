@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:08:33+03:00'
 draft: false
 slug: fibreglass-flat-roof-problems-cracks-pinholes-and-repairs
 categories:
-- Flat Roof Leaks
+- flat-roof-leaks
 tags:
 - fibreglass flat roof problems
 - grp roof leak

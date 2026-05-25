@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:31:08+03:00'
 draft: false
 slug: gutter-guards-do-they-prevent-leaks-or-create-new-problems
 categories:
-- Gutters & Downspouts
-- Seasonal Prevention
+- gutters-downspouts
+- seasonal-prevention
 tags:
 - do gutter guards prevent leaks
 - gutter guard pros and cons

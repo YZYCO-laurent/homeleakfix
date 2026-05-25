@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:37:35+03:00'
 draft: false
 slug: box-gutters-leaking-hidden-risks-and-repair-options
 categories:
-- Gutters & Downspouts
+- gutters-downspouts
 tags:
 - box gutter leak repair
 - internal gutter leak

@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:52:13+03:00'
 draft: false
 slug: primer-or-no-primer-how-adhesion-works-in-waterproofing
 categories:
-- Sealants & Materials
+- sealants-materials
 tags:
 - waterproofing primer
 - sealant adhesion

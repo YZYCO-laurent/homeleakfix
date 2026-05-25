@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:30:59+03:00'
 draft: false
 slug: when-not-to-diy-waterproofing-safety-structure-and-warranty-
 categories:
-- Start Here
+- start-here
 tags:
 - when not to diy waterproofing
 - diy leak repair risks

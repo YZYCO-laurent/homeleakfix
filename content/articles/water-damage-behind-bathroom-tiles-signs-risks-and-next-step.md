@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:27:47+03:00'
 draft: false
 slug: water-damage-behind-bathroom-tiles-signs-risks-and-next-step
 categories:
-- Bathrooms & Wet Rooms
-- Seasonal Prevention
+- bathrooms-wet-rooms
+- seasonal-prevention
 tags:
 - water damage behind bathroom tiles
 - damp behind tiles

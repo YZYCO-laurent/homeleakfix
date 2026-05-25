@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:34:06+03:00'
 draft: false
 slug: flood-testing-a-shower-or-wet-room-why-and-how-it-is-done
 categories:
-- Bathrooms & Wet Rooms
+- bathrooms-wet-rooms
 tags:
 - shower flood test
 - wet room flood test

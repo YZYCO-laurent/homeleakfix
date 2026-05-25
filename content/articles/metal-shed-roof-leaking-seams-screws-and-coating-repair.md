@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:09:28+03:00'
 draft: false
 slug: metal-shed-roof-leaking-seams-screws-and-coating-repair
 categories:
-- Sealants & Materials
+- sealants-materials
 tags:
 - metal shed roof leaking
 - shed roof leak repair

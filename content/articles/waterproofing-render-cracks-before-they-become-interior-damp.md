@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:10:57+03:00'
 draft: false
 slug: waterproofing-render-cracks-before-they-become-interior-damp
 categories:
-- Windows, Doors & Walls
+- windows-doors-walls
 tags:
 - waterproofing render cracks
 - cracked render repair

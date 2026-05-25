@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:05:08+03:00'
 draft: false
 slug: best-waterproof-coating-for-a-flat-roof-acrylic-silicone-pol
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - best waterproof coating for flat roof
 - flat roof coating comparison

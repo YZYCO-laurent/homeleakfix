@@ -6,8 +6,8 @@ lastmod: '2026-05-25T13:17:54+03:00'
 draft: false
 slug: spring-leak-inspection-after-frost-and-freeze-thaw-cycles
 categories:
-- Balconies & Exterior Concrete
-- Seasonal Prevention
+- balconies-exterior-concrete
+- seasonal-prevention
 tags:
 - spring leak inspection
 - freeze thaw damage

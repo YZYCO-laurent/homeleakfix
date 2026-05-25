@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:29:27+03:00'
 draft: false
 slug: how-far-should-downspouts-discharge-water-away-from-a-founda
 categories:
-- Gutters & Downspouts
-- Basements & Foundations
+- gutters-downspouts
+- basements-foundations
 tags:
 - downspout extension distance
 - downspout away from house

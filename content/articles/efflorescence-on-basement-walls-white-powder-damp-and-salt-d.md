@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:44:14+03:00'
 draft: false
 slug: efflorescence-on-basement-walls-white-powder-damp-and-salt-d
 categories:
-- Basements & Foundations
-- Windows, Doors & Walls
+- basements-foundations
+- windows-doors-walls
 tags:
 - efflorescence basement walls
 - white powder on wall

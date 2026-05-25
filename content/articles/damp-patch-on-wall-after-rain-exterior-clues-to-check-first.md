@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:28:03+03:00'
 draft: false
 slug: damp-patch-on-wall-after-rain-exterior-clues-to-check-first
 categories:
-- Windows, Doors & Walls
+- windows-doors-walls
 tags:
 - damp patch on wall after rain
 - wall damp after rain

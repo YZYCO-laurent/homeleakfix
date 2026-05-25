@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:38:29+03:00'
 draft: false
 slug: wet-basement-wall-after-rain-how-to-diagnose-the-source
 categories:
-- Basements & Foundations
-- Windows, Doors & Walls
+- basements-foundations
+- windows-doors-walls
 tags:
 - wet basement wall after rain
 - basement leak after rain

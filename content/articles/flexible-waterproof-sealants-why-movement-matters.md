@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:49:36+03:00'
 draft: false
 slug: flexible-waterproof-sealants-why-movement-matters
 categories:
-- Sealants & Materials
-- Basements & Foundations
+- sealants-materials
+- basements-foundations
 tags:
 - flexible waterproof sealant
 - elastic sealant

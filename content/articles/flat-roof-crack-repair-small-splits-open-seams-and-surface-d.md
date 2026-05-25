@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:04:12+03:00'
 draft: false
 slug: flat-roof-crack-repair-small-splits-open-seams-and-surface-d
 categories:
-- Flat Roof Leaks
+- flat-roof-leaks
 tags:
 - flat roof crack repair
 - roof split repair

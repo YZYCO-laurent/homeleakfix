@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:57:15+03:00'
 draft: false
 slug: acrylic-vs-silicone-roof-coating-which-performs-better-where
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - acrylic vs silicone roof coating
 - acrylic roof coating

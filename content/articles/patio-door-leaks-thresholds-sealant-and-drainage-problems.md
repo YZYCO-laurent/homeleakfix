@@ -6,9 +6,9 @@ lastmod: '2026-05-25T12:20:32+03:00'
 draft: false
 slug: patio-door-leaks-thresholds-sealant-and-drainage-problems
 categories:
-- Windows, Doors & Walls
-- Sealants & Materials
-- Balconies & Exterior Concrete
+- windows-doors-walls
+- sealants-materials
+- balconies-exterior-concrete
 tags:
 - patio door leak
 - leaking patio door

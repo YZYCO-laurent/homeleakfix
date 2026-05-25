@@ -6,9 +6,9 @@ lastmod: '2026-05-25T11:00:56+03:00'
 draft: false
 slug: can-you-repair-a-flat-roof-in-wet-weather-safe-options-and-m
 categories:
-- Emergency Repairs
-- Flat Roof Leaks
-- Sealants & Materials
+- emergency-repairs
+- flat-roof-leaks
+- sealants-materials
 tags:
 - repair flat roof in wet weather
 - roof coating in rain

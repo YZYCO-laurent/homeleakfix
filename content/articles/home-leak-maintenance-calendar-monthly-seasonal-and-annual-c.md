@@ -6,8 +6,8 @@ lastmod: '2026-05-25T13:29:50+03:00'
 draft: false
 slug: home-leak-maintenance-calendar-monthly-seasonal-and-annual-c
 categories:
-- Seasonal Prevention
-- Basements & Foundations
+- seasonal-prevention
+- basements-foundations
 tags:
 - home leak maintenance calendar
 - waterproofing maintenance

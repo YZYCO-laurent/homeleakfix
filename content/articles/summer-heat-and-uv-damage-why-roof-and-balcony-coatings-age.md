@@ -6,9 +6,9 @@ lastmod: '2026-05-25T13:18:57+03:00'
 draft: false
 slug: summer-heat-and-uv-damage-why-roof-and-balcony-coatings-age
 categories:
-- Seasonal Prevention
-- Flat Roof Leaks
-- Sealants & Materials
+- seasonal-prevention
+- flat-roof-leaks
+- sealants-materials
 tags:
 - uv damage roof coating
 - sun damage waterproofing

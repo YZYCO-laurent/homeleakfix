@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:59:25+03:00'
 draft: false
 slug: cementitious-vs-liquid-membrane-waterproofing-how-to-choose
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - cementitious vs liquid membrane waterproofing
 - cement waterproofing

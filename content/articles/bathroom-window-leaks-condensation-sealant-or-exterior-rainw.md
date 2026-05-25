@@ -6,9 +6,9 @@ lastmod: '2026-05-25T12:41:57+03:00'
 draft: false
 slug: bathroom-window-leaks-condensation-sealant-or-exterior-rainw
 categories:
-- Bathrooms & Wet Rooms
-- Windows, Doors & Walls
-- Sealants & Materials
+- bathrooms-wet-rooms
+- windows-doors-walls
+- sealants-materials
 tags:
 - bathroom window leak
 - window sealant bathroom

@@ -6,9 +6,9 @@ lastmod: '2026-05-25T12:50:41+03:00'
 draft: false
 slug: uv-resistant-sealant-when-outdoor-repairs-need-sun-protectio
 categories:
-- Sealants & Materials
-- Balconies & Exterior Concrete
-- Windows, Doors & Walls
+- sealants-materials
+- balconies-exterior-concrete
+- windows-doors-walls
 tags:
 - uv resistant sealant
 - outdoor sealant

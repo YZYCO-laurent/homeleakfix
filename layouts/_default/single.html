@@ -4,8 +4,8 @@
   <header class="article-header">
     <div class="container article-header-grid">
       <div>
-        <nav class="breadcrumbs"><a href="/">Home</a><span>/</span><a href="/articles/">Knowledge Base</a>{{ with index .Params.categories 0 }}<span>/</span><a href="{{ printf "/categories/%s/" (. | urlize) }}">{{ . }}</a>{{ end }}</nav>
-        <div class="meta-row category-row">{{ range .Params.categories }}<a class="badge" href="{{ printf "/categories/%s/" (. | urlize) }}">{{ . }}</a>{{ end }}</div>
+        <nav class="breadcrumbs"><a href="/">Home</a><span>/</span><a href="/articles/">Knowledge Base</a>{{ with index .Params.categories 0 }}<span>/</span><a href="{{ printf "/categories/%s/" . }}">{{ partial "category-title.html" . }}</a>{{ end }}</nav>
+        <div class="meta-row category-row">{{ range .Params.categories }}<a class="badge" href="{{ printf "/categories/%s/" . }}">{{ partial "category-title.html" . }}</a>{{ end }}</div>
         <h1>{{ .Title }}</h1>
         <p class="lead">{{ .Description | default .Summary | plainify }}</p>
         <div class="article-meta">By {{ site.Params.author }} · Updated {{ .Lastmod.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min read</div>
@@ -28,7 +28,7 @@
       </section>
       <section class="article-taxonomy">
         <h2>Related topics</h2>
-        <div class="tag-list">{{ range .Params.categories }}<a href="{{ printf "/categories/%s/" (. | urlize) }}">{{ . }}</a>{{ end }}{{ range .Params.tags }}<span>{{ . }}</span>{{ end }}</div>
+        <div class="tag-list">{{ range .Params.categories }}<a href="{{ printf "/categories/%s/" . }}">{{ partial "category-title.html" . }}</a>{{ end }}{{ range .Params.tags }}<span>{{ . }}</span>{{ end }}</div>
       </section>
     </div>
   </div>

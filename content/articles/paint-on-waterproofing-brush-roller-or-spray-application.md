@@ -6,8 +6,8 @@ lastmod: '2026-05-25T13:03:15+03:00'
 draft: false
 slug: paint-on-waterproofing-brush-roller-or-spray-application
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - paint on waterproofing
 - brush on waterproofing

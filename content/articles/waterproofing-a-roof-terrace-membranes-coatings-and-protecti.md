@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:06:19+03:00'
 draft: false
 slug: waterproofing-a-roof-terrace-membranes-coatings-and-protecti
 categories:
-- Sealants & Materials
+- sealants-materials
 tags:
 - roof terrace waterproofing
 - terrace membrane

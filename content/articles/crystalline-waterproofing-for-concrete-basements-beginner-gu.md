@@ -6,9 +6,9 @@ lastmod: '2026-05-25T11:52:07+03:00'
 draft: false
 slug: crystalline-waterproofing-for-concrete-basements-beginner-gu
 categories:
-- Basements & Foundations
-- Sealants & Materials
-- Balconies & Exterior Concrete
+- basements-foundations
+- sealants-materials
+- balconies-exterior-concrete
 tags:
 - crystalline waterproofing basement
 - crystalline concrete waterproofing

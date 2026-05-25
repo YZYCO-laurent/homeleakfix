@@ -6,9 +6,9 @@ lastmod: '2026-05-25T12:31:07+03:00'
 draft: false
 slug: bathroom-silicone-failure-mould-peeling-and-gaps-explained
 categories:
-- Bathrooms & Wet Rooms
-- Sealants & Materials
-- Seasonal Prevention
+- bathrooms-wet-rooms
+- sealants-materials
+- seasonal-prevention
 tags:
 - bathroom silicone failure
 - mouldy silicone

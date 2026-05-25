@@ -6,8 +6,8 @@ lastmod: '2026-05-25T13:27:34+03:00'
 draft: false
 slug: water-stain-on-ceiling-roof-pipe-bathroom-or-condensation
 categories:
-- Bathrooms & Wet Rooms
-- Seasonal Prevention
+- bathrooms-wet-rooms
+- seasonal-prevention
 tags:
 - water stain on ceiling
 - ceiling leak diagnosis

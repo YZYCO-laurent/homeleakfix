@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:59:45+03:00'
 draft: false
 slug: interior-drain-tile-systems-how-they-manage-basement-water
 categories:
-- Basements & Foundations
-- Bathrooms & Wet Rooms
+- basements-foundations
+- bathrooms-wet-rooms
 tags:
 - interior drain tile system
 - basement perimeter drain

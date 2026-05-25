@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:03:44+03:00'
 draft: false
 slug: alligatoring-on-flat-roofs-what-it-means-and-how-to-fix-it
 categories:
-- Flat Roof Leaks
-- Sealants & Materials
+- flat-roof-leaks
+- sealants-materials
 tags:
 - alligatoring flat roof
 - cracked bitumen roof

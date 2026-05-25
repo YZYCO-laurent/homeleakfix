@@ -6,9 +6,9 @@ lastmod: '2026-05-25T11:55:55+03:00'
 draft: false
 slug: porous-concrete-walls-can-a-waterproof-coating-stop-seepage
 categories:
-- Windows, Doors & Walls
-- Flat Roof Leaks
-- Basements & Foundations
+- windows-doors-walls
+- flat-roof-leaks
+- basements-foundations
 tags:
 - porous concrete wall waterproofing
 - concrete seepage

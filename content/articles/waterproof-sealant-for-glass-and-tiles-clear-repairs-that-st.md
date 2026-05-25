@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:49:02+03:00'
 draft: false
 slug: waterproof-sealant-for-glass-and-tiles-clear-repairs-that-st
 categories:
-- Bathrooms & Wet Rooms
-- Sealants & Materials
+- bathrooms-wet-rooms
+- sealants-materials
 tags:
 - waterproof sealant for glass and tiles
 - clear tile sealant

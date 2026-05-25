@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:12:42+03:00'
 draft: false
 slug: uv-resistant-waterproof-coatings-why-sun-exposure-matters
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - uv resistant waterproof coating
 - exterior waterproof coating

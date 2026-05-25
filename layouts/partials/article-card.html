@@ -5,7 +5,7 @@
   </a>
   <div class="card-body">
     <div class="meta-row">
-      {{ with index .Params.categories 0 }}<a class="badge" href="{{ printf "/categories/%s/" (. | urlize) }}">{{ . }}</a>{{ end }}
+      {{ with index .Params.categories 0 }}<a class="badge" href="{{ printf "/categories/%s/" . }}">{{ partial "category-title.html" . }}</a>{{ end }}
       <span>{{ .ReadingTime }} min read</span>
     </div>
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>

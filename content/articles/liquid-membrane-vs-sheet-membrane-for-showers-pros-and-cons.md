@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:23:06+03:00'
 draft: false
 slug: liquid-membrane-vs-sheet-membrane-for-showers-pros-and-cons
 categories:
-- Bathrooms & Wet Rooms
-- Sealants & Materials
+- bathrooms-wet-rooms
+- sealants-materials
 tags:
 - liquid membrane vs sheet membrane shower
 - shower waterproofing membrane

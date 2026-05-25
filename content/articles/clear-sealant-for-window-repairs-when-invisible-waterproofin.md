@@ -6,8 +6,8 @@ lastmod: '2026-05-25T13:15:19+03:00'
 draft: false
 slug: clear-sealant-for-window-repairs-when-invisible-waterproofin
 categories:
-- Sealants & Materials
-- Windows, Doors & Walls
+- sealants-materials
+- windows-doors-walls
 tags:
 - clear sealant for windows
 - transparent window sealant

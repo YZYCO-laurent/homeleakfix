@@ -6,9 +6,9 @@ lastmod: '2026-05-25T12:46:27+03:00'
 draft: false
 slug: waterproof-sealant-for-metal-roofs-gutters-sheds-and-flashin
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
-- Gutters & Downspouts
+- sealants-materials
+- flat-roof-leaks
+- gutters-downspouts
 tags:
 - waterproof sealant for metal
 - metal roof sealant

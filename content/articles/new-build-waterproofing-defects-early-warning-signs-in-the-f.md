@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:25:03+03:00'
 draft: false
 slug: new-build-waterproofing-defects-early-warning-signs-in-the-f
 categories:
-- Bathrooms & Wet Rooms
+- bathrooms-wet-rooms
 tags:
 - new build waterproofing defects
 - new home leaks

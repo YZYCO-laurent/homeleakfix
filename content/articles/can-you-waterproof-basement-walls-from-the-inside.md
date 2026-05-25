@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:41:41+03:00'
 draft: false
 slug: can-you-waterproof-basement-walls-from-the-inside
 categories:
-- Basements & Foundations
-- Windows, Doors & Walls
+- basements-foundations
+- windows-doors-walls
 tags:
 - waterproof basement walls from inside
 - negative side waterproofing

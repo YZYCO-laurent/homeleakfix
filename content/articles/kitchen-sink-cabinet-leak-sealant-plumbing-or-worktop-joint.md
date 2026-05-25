@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:38:16+03:00'
 draft: false
 slug: kitchen-sink-cabinet-leak-sealant-plumbing-or-worktop-joint
 categories:
-- Sealants & Materials
+- sealants-materials
 tags:
 - kitchen sink cabinet leak
 - leak under kitchen sink

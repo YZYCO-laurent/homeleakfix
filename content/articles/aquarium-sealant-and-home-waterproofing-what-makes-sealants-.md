@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:39:32+03:00'
 draft: false
 slug: aquarium-sealant-and-home-waterproofing-what-makes-sealants-
 categories:
-- Sealants & Materials
-- Start Here
+- sealants-materials
+- start-here
 tags:
 - aquarium sealant waterproof
 - glass waterproof sealant

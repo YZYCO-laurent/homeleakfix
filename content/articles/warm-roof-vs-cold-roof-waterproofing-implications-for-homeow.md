@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:20:18+03:00'
 draft: false
 slug: warm-roof-vs-cold-roof-waterproofing-implications-for-homeow
 categories:
-- Flat Roof Leaks
+- flat-roof-leaks
 tags:
 - warm roof vs cold roof waterproofing
 - flat roof insulation

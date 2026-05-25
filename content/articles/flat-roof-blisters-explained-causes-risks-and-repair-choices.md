@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:03:11+03:00'
 draft: false
 slug: flat-roof-blisters-explained-causes-risks-and-repair-choices
 categories:
-- Flat Roof Leaks
-- Sealants & Materials
+- flat-roof-leaks
+- sealants-materials
 tags:
 - flat roof blisters
 - roof membrane bubbles

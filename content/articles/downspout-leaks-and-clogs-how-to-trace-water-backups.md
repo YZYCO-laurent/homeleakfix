@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:26:35+03:00'
 draft: false
 slug: downspout-leaks-and-clogs-how-to-trace-water-backups
 categories:
-- Gutters & Downspouts
-- Basements & Foundations
+- gutters-downspouts
+- basements-foundations
 tags:
 - downspout leak repair
 - clogged downspout

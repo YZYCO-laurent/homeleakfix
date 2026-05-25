@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:26:02+03:00'
 draft: false
 slug: sagging-gutters-causes-correct-pitch-and-hanger-repair
 categories:
-- Gutters & Downspouts
-- Basements & Foundations
+- gutters-downspouts
+- basements-foundations
 tags:
 - sagging gutters
 - gutter pitch

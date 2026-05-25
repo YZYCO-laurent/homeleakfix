@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:31:40+03:00'
 draft: false
 slug: plastic-vs-aluminium-vs-steel-gutters-leak-risks-and-mainten
 categories:
-- Gutters & Downspouts
-- Basements & Foundations
+- gutters-downspouts
+- basements-foundations
 tags:
 - plastic vs aluminium gutters
 - pvc gutters

@@ -6,8 +6,8 @@ lastmod: '2026-05-25T11:07:01+03:00'
 draft: false
 slug: bitumen-roof-coating-guide-where-it-works-and-where-it-fails
 categories:
-- Sealants & Materials
-- Flat Roof Leaks
+- sealants-materials
+- flat-roof-leaks
 tags:
 - bitumen roof coating
 - bitumen waterproofing

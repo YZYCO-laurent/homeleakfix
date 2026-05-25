@@ -6,7 +6,7 @@ lastmod: '2026-05-25T12:02:10+03:00'
 draft: false
 slug: terrace-waterproofing-before-tiles-layers-drains-and-movemen
 categories:
-- Bathrooms & Wet Rooms
+- bathrooms-wet-rooms
 tags:
 - terrace waterproofing before tiles
 - waterproof terrace

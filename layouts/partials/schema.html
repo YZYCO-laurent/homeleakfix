@@ -1,5 +1,7 @@
 {{ $img := .Params.image | default site.Params.defaultImage | absURL }}
 {{ $desc := .Description | default .Params.description | default site.Params.description | plainify | htmlUnescape }}
+{{ $sections := slice }}
+{{ range .Params.categories }}{{ $sections = $sections | append (partial "category-title.html" .) }}{{ end }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -30,7 +32,7 @@
       "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
       "author": {"@type": "Organization", "name": "{{ site.Params.author }}"},
       "publisher": {"@id": "{{ site.BaseURL }}#organization"},
-      "articleSection": {{ .Params.categories | jsonify }},
+      "articleSection": {{ $sections | jsonify }},
       "keywords": {{ .Params.tags | default .Params.secondary_keywords | jsonify }}
     }{{ end }}
   ]

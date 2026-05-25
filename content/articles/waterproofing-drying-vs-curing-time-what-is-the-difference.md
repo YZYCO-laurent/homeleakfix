@@ -6,7 +6,7 @@ lastmod: '2026-05-25T13:03:44+03:00'
 draft: false
 slug: waterproofing-drying-vs-curing-time-what-is-the-difference
 categories:
-- Sealants & Materials
+- sealants-materials
 tags:
 - drying vs curing waterproofing
 - sealant cure time

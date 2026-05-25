@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:11:48+03:00'
 draft: false
 slug: roof-flashing-leaks-chimneys-skylights-parapets-and-wall-jun
 categories:
-- Windows, Doors & Walls
+- windows-doors-walls
 tags:
 - roof flashing leak
 - chimney flashing leak

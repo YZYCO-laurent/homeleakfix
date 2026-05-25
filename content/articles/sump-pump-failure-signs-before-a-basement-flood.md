@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:48:27+03:00'
 draft: false
 slug: sump-pump-failure-signs-before-a-basement-flood
 categories:
-- Basements & Foundations
+- basements-foundations
 tags:
 - sump pump failure signs
 - sump pump backup

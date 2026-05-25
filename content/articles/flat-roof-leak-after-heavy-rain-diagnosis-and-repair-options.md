@@ -6,8 +6,8 @@ lastmod: '2026-05-25T10:59:21+03:00'
 draft: false
 slug: flat-roof-leak-after-heavy-rain-diagnosis-and-repair-options
 categories:
-- Flat Roof Leaks
-- Emergency Repairs
+- flat-roof-leaks
+- emergency-repairs
 tags:
 - flat roof leak after heavy rain
 - roof leaks in rain

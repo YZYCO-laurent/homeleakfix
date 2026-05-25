@@ -6,8 +6,8 @@ lastmod: '2026-05-25T12:27:24+03:00'
 draft: false
 slug: can-you-fix-a-leaking-shower-without-removing-tiles
 categories:
-- Bathrooms & Wet Rooms
-- Sealants & Materials
+- bathrooms-wet-rooms
+- sealants-materials
 tags:
 - fix leaking shower without removing tiles
 - shower leak repair over tiles

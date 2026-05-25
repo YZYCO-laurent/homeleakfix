@@ -6,7 +6,7 @@ lastmod: '2026-05-25T11:10:49+03:00'
 draft: false
 slug: flat-garage-roof-leaking-causes-and-low-cost-repair-options
 categories:
-- Flat Roof Leaks
+- flat-roof-leaks
 tags:
 - flat garage roof leaking
 - garage roof leak repair
