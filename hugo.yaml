@@ -10,6 +10,7 @@ buildFuture: true
 summaryLength: 28
 pagination:
   pagerSize: 18
+  disableAliases: true
 
 permalinks:
   articles: "/articles/:slug/"
@@ -41,7 +42,6 @@ sitemap:
 
 taxonomies:
   category: "categories"
-  tag: "tags"
 
 params:
   description: "Practical DIY guides for finding, fixing, and preventing leaks around roofs, gutters, basements, bathrooms, balconies, exterior walls, windows, and doors."
@@ -102,15 +102,12 @@ menu:
     - name: "Categories"
       url: "/categories/"
       weight: 20
-    - name: "Start Here"
-      url: "/categories/start-here/"
-      weight: 30
     - name: "Emergency Guide"
       url: "/articles/emergency-leak-repair-guide-what-to-do-during-heavy-rain-bef/"
-      weight: 40
+      weight: 30
     - name: "Contact"
       url: "/contact/"
-      weight: 50
+      weight: 40
   footer:
     - name: "About"
       url: "/about/"

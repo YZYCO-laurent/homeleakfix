@@ -6,10 +6,14 @@
 {{ if gt (len $title) 68 }}{{ $title = printf "%s…" (substr $title 0 67) }}{{ end }}
 {{ $desc := .Description | default .Params.description | default site.Params.description | plainify | htmlUnescape }}
 {{ if gt (len $desc) 165 }}{{ $desc = printf "%s…" (substr $desc 0 164) }}{{ end }}
+{{ $isTagPage := and (or (eq .Kind "taxonomy") (eq .Kind "term")) (eq .Type "tags") }}
+{{ $isPagedArticleArchive := false }}
+{{ if and .IsSection (eq .Section "articles") }}{{ $isPagedArticleArchive = gt .Paginator.PageNumber 1 }}{{ end }}
+{{ $shouldNoindex := or .Params.noindex $isTagPage $isPagedArticleArchive }}
 <title>{{ $title }}</title>
 <meta name="description" content="{{ $desc }}">
 <link rel="canonical" href="{{ .Permalink }}">
-<meta name="robots" content="{{ if .Params.noindex }}noindex,follow{{ else }}index,follow{{ end }}">
+<meta name="robots" content="{{ if $shouldNoindex }}noindex,follow{{ else }}index,follow{{ end }}">
 <meta property="og:site_name" content="{{ site.Title }}">
 <meta property="og:title" content="{{ $title }}">
 <meta property="og:description" content="{{ $desc }}">

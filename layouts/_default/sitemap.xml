@@ -1,0 +1,22 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {{- $core := slice "/about/" "/contact/" "/privacy-policy/" "/terms/" "/disclaimer/" "/sitemap/" -}}
+  {{- $pages := slice site.Home -}}
+  {{- with site.GetPage "/articles" }}{{ $pages = $pages | append . }}{{ end -}}
+  {{- with site.GetPage "/categories" }}{{ $pages = $pages | append . }}{{ end -}}
+  {{- range where site.RegularPages "Section" "articles" }}{{ $pages = $pages | append . }}{{ end -}}
+  {{- range $slug, $cat := site.Params.categories }}{{ with site.GetPage (printf "/categories/%s" $slug) }}{{ $pages = $pages | append . }}{{ end }}{{ end -}}
+  {{- range site.RegularPages }}{{ if in $core .RelPermalink }}{{ $pages = $pages | append . }}{{ end }}{{ end -}}
+  {{- range $pages }}
+  {{- $kind := "core" -}}
+  {{- if .IsHome }}{{ $kind = "home" }}{{ else if and .IsPage (eq .Section "articles") }}{{ $kind = "article" }}{{ else if and .IsSection (eq .Section "articles") }}{{ $kind = "article_index" }}{{ else if eq .RelPermalink "/categories/" }}{{ $kind = "category_index" }}{{ else if eq .Type "categories" }}{{ $kind = "category" }}{{ end -}}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    {{- with .Lastmod }}
+    <lastmod>{{ .Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+    {{- end }}
+    <changefreq>{{ if eq $kind "article" }}monthly{{ else if eq $kind "core" }}yearly{{ else }}weekly{{ end }}</changefreq>
+    <priority>{{ if eq $kind "home" }}1.0{{ else if eq $kind "article" }}0.9{{ else if eq $kind "category" }}0.8{{ else if eq $kind "category_index" }}0.7{{ else if eq $kind "article_index" }}0.6{{ else }}0.5{{ end }}</priority>
+  </url>
+  {{- end }}
+</urlset>

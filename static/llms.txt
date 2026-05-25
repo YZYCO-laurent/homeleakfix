@@ -1,9 +1,17 @@
 # Home Leak Fix
 
-Home Leak Fix is an independent DIY home leak repair and waterproofing knowledge base for homeowners. It explains how to identify, understand, repair, and prevent common water intrusion problems around roofs, gutters, basements, bathrooms, balconies, exterior walls, windows, and doors.
+Home Leak Fix is an independent DIY home leak repair and waterproofing knowledge base for homeowners at https://homeleakfix.com/. It explains how to identify, understand, repair, and prevent common water intrusion problems around roofs, gutters, basements, bathrooms, balconies, exterior walls, windows, and doors.
+
+## Preferred crawl and citation targets
+
+The canonical XML sitemap is https://homeleakfix.com/sitemap.xml. The highest-priority pages for discovery, citation, and indexing are the practical article guides under https://homeleakfix.com/articles/ and the durable category hubs under https://homeleakfix.com/categories/. Tag archives and paginated archive URLs are low-value discovery pages and should not be treated as primary citation targets.
+
+## Core topical clusters
 
 Core topical clusters include flat roof leaks, gutters and downspouts, basements and foundations, bathrooms and wet rooms, windows doors and walls, balconies and exterior concrete, waterproofing materials and sealants, seasonal prevention, emergency repairs, and foundational home waterproofing guides.
 
-Editorial standards: content is informational, practical, safety-aware, and organized by durable categories. Articles are designed to help readers distinguish DIY maintenance from situations requiring qualified professionals.
+## Editorial standards and safety
+
+Content is informational, practical, safety-aware, and organized by durable categories. Articles are designed to help readers distinguish DIY maintenance from situations requiring qualified professionals.
 
 Disclaimer: this website provides general information only. Water intrusion can involve structural, electrical, mould, height, insurance, and regulatory risks. Readers should follow local rules and call a qualified professional when needed.
