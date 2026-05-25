@@ -1,0 +1,21 @@
+{{ define "main" }}
+{{ $slug := .Data.Term }}
+{{ $cat := index site.Params.categories $slug }}
+<section class="page-hero compact">
+  <div class="container">
+    <nav class="breadcrumbs"><a href="/">Home</a><span>/</span><a href="/categories/">Categories</a></nav>
+    <p class="eyebrow">{{ len .Pages }} guides</p>
+    <h1>{{ with $cat }}{{ .title }}{{ else }}{{ .Title }}{{ end }}</h1>
+    <p class="lead">{{ with $cat }}{{ .description }}{{ else }}Browse related Home Leak Fix guides in this topic cluster.{{ end }}</p>
+  </div>
+</section>
+<section class="container archive-layout">
+  <aside class="archive-sidebar">
+    <h2>All topics</h2>
+    <nav>{{ range $s, $c := site.Params.categories }}<a class="{{ if eq $s $slug }}active{{ end }}" href="/categories/{{ $s }}/">{{ $c.title }}</a>{{ end }}</nav>
+  </aside>
+  <div class="article-grid list-grid">
+    {{ range .Pages.ByTitle }}{{ partial "article-card.html" . }}{{ end }}
+  </div>
+</section>
+{{ end }}

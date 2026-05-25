@@ -1,0 +1,12 @@
+<header class="site-header">
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <div class="container header-inner">
+    <a class="brand" href="/" aria-label="Home Leak Fix home">
+      <span class="brand-mark">HLF</span>
+      <span class="brand-text"><strong>Home Leak Fix</strong><small>DIY waterproofing knowledge base</small></span>
+    </a>
+    <nav class="main-nav" aria-label="Main navigation">
+      {{ range site.Menus.main }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}
+    </nav>
+  </div>
+</header>

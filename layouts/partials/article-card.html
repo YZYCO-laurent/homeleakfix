@@ -1,0 +1,14 @@
+<article class="card article-card">
+  <a class="card-media" href="{{ .RelPermalink }}" aria-label="Read {{ .Title }}">
+    {{ $image := .Params.image | default site.Params.defaultImage }}
+    <img src="{{ $image }}" alt="{{ .Params.image_alt | default (printf "Illustration for %s" .Title) }}" loading="lazy">
+  </a>
+  <div class="card-body">
+    <div class="meta-row">
+      {{ with index .Params.categories 0 }}<a class="badge" href="{{ printf "/categories/%s/" (. | urlize) }}">{{ . }}</a>{{ end }}
+      <span>{{ .ReadingTime }} min read</span>
+    </div>
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Description | default .Summary | plainify | truncate 155 }}</p>
+  </div>
+</article>

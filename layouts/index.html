@@ -1,0 +1,66 @@
+{{ define "main" }}
+{{ $articles := where site.RegularPages "Section" "articles" }}
+<section class="hero">
+  <div class="container hero-grid">
+    <div class="hero-copy">
+      <p class="eyebrow">DIY leak diagnosis and waterproofing guidance</p>
+      <h1>Find the leak, understand the cause, and choose the safer fix.</h1>
+      <p class="lead">Home Leak Fix organizes practical homeowner guidance for roofs, gutters, basements, bathrooms, balconies, walls, windows, doors, sealants, and seasonal leak prevention.</p>
+      <div class="hero-actions"><a class="button primary" href="/articles/">Browse the knowledge base</a><a class="button secondary" href="/categories/">Explore by problem area</a></div>
+    </div>
+    <div class="hero-panel">
+      <div class="panel-topline">Most repairs start with three checks</div>
+      <ol>
+        <li>Trace where water appears, not just where it enters.</li>
+        <li>Separate drainage failures from waterproofing failures.</li>
+        <li>Use temporary patches only when they do not hide a larger risk.</li>
+      </ol>
+    </div>
+  </div>
+</section>
+
+<section class="container section-block">
+  <div class="section-heading">
+    <p class="eyebrow">Topic clusters</p>
+    <h2>Start with the part of the home that is leaking</h2>
+    <p>Each hub collects related guides so you can move from symptoms to likely causes, repair choices, and prevention habits.</p>
+  </div>
+  <div class="category-grid">
+    {{ range $slug, $cat := site.Params.categories }}
+      {{ $count := len (where $articles "Params.categories" "intersect" (slice $cat.title)) }}
+      <a class="category-card" href="/categories/{{ $slug }}/">
+        <span class="category-icon">{{ substr $cat.title 0 1 }}</span>
+        <strong>{{ $cat.title }}</strong>
+        <span>{{ $cat.description }}</span>
+        <em>{{ $count }} guides</em>
+      </a>
+    {{ end }}
+  </div>
+</section>
+
+<section class="feature-strip">
+  <div class="container feature-grid">
+    <div><strong>Content-first structure</strong><span>Long-form guides grouped into stable topical hubs.</span></div>
+    <div><strong>DIY safety framing</strong><span>Clear boundaries between homeowner checks and professional repairs.</span></div>
+    <div><strong>Maintenance focus</strong><span>Prevention guidance for rainy, cold, and exposed climates.</span></div>
+  </div>
+</section>
+
+<section class="container section-block">
+  <div class="section-heading split">
+    <div><p class="eyebrow">Latest guides</p><h2>Recently added leak repair articles</h2></div>
+    <a class="text-link" href="/articles/">View all guides</a>
+  </div>
+  <div class="article-grid">
+    {{ range first 9 (sort $articles "Date" "desc") }}{{ partial "article-card.html" . }}{{ end }}
+  </div>
+</section>
+
+<section class="container mission-block">
+  <div>
+    <p class="eyebrow">Editorial mission</p>
+    <h2>Helpful repairs begin with better diagnosis.</h2>
+  </div>
+  <p>Home Leak Fix is built for homeowners who want to understand why a leak happens before buying products or starting demolition. The site prioritizes clear explanations, repair context, maintenance routines, and safety limits over one-size-fits-all fixes.</p>
+</section>
+{{ end }}

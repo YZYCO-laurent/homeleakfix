@@ -1,0 +1,131 @@
+baseURL: "https://homeleakfix.com/"
+locale: "en-US"
+title: "Home Leak Fix"
+timeZone: "Europe/Brussels"
+defaultContentLanguage: "en"
+enableRobotsTXT: true
+enableGitInfo: false
+buildFuture: true
+summaryLength: 28
+pagination:
+  pagerSize: 18
+
+permalinks:
+  articles: "/:slug/"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+  section:
+    - HTML
+  taxonomy:
+    - HTML
+  term:
+    - HTML
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+    ordered: false
+
+sitemap:
+  changefreq: "weekly"
+  priority: 0.7
+  filename: "sitemap.xml"
+
+taxonomies:
+  category: "categories"
+  tag: "tags"
+
+params:
+  description: "Practical DIY guides for finding, fixing, and preventing leaks around roofs, gutters, basements, bathrooms, balconies, exterior walls, windows, and doors."
+  author: "Home Leak Fix Editorial Team"
+  publisher: "Home Leak Fix"
+  defaultImage: "/images/site/homeleakfix-og.svg"
+  primaryColor: "#0f5e63"
+  accentColor: "#f59e0b"
+  domain: "homeleakfix.com"
+  disclaimer: "Home Leak Fix publishes general DIY information for homeowners. Water intrusion can involve structural, electrical, height, mould, or insurance risks. Use proper safety equipment, follow local building rules, and call a qualified professional when a repair is unsafe, unclear, or beyond your experience."
+  categories:
+    start-here:
+      title: "Start Here"
+      description: "Foundational guides that explain how water moves through a home and how to choose safe repair priorities."
+      icon: "compass"
+    flat-roof-leaks:
+      title: "Flat Roof Leaks"
+      description: "Diagnosis and repair guidance for flat roofs, membranes, coatings, flashing, ponding water, blisters, and edge leaks."
+      icon: "roof"
+    gutters-downspouts:
+      title: "Gutters & Downspouts"
+      description: "Practical help for overflowing gutters, leaking seams, blocked downspouts, sagging runs, end caps, winter repair, and roofline drainage."
+      icon: "gutter"
+    basements-foundations:
+      title: "Basements & Foundations"
+      description: "Guides to damp basements, foundation cracks, hydrostatic pressure, drain tile, sump pumps, efflorescence, and below-grade waterproofing."
+      icon: "foundation"
+    bathrooms-wet-rooms:
+      title: "Bathrooms & Wet Rooms"
+      description: "Shower, wet-room, tile, grout, silicone, and bathroom leak repair guidance for durable interior waterproofing."
+      icon: "shower"
+    windows-doors-walls:
+      title: "Windows, Doors & Walls"
+      description: "Exterior wall damp, driving rain, window frame leaks, thresholds, wall penetrations, masonry, render, and indoor moisture problems."
+      icon: "window"
+    balconies-exterior-concrete:
+      title: "Balconies & Exterior Concrete"
+      description: "Waterproofing help for balconies, patios, outdoor concrete, brick, garden walls, frost damage, and exposed surfaces."
+      icon: "concrete"
+    sealants-materials:
+      title: "Sealants & Materials"
+      description: "Comparisons of sealants, caulks, coatings, membranes, bitumen, acrylic, silicone, polyurethane, MS polymer, and liquid rubber."
+      icon: "tube"
+    seasonal-prevention:
+      title: "Seasonal Prevention"
+      description: "Maintenance calendars, prevention checklists, cold-weather advice, ventilation, mould prevention, and low-cost leak-proofing routines."
+      icon: "calendar"
+    emergency-repairs:
+      title: "Emergency Repairs"
+      description: "Immediate leak response, documentation, temporary patches, wet-weather safety, and when to stop DIY work."
+      icon: "alert"
+
+menu:
+  main:
+    - name: "Knowledge Base"
+      url: "/articles/"
+      weight: 10
+    - name: "Categories"
+      url: "/categories/"
+      weight: 20
+    - name: "Start Here"
+      url: "/categories/start-here/"
+      weight: 30
+    - name: "Emergency Guide"
+      url: "/emergency-leak-repair-guide-what-to-do-during-heavy-rain-bef/"
+      weight: 40
+    - name: "Contact"
+      url: "/contact/"
+      weight: 50
+  footer:
+    - name: "About"
+      url: "/about/"
+      weight: 10
+    - name: "Contact"
+      url: "/contact/"
+      weight: 20
+    - name: "Privacy Policy"
+      url: "/privacy-policy/"
+      weight: 30
+    - name: "Terms"
+      url: "/terms/"
+      weight: 40
+    - name: "Disclaimer"
+      url: "/disclaimer/"
+      weight: 50
+    - name: "Sitemap"
+      url: "/sitemap/"
+      weight: 60

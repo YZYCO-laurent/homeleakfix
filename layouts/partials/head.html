@@ -1,0 +1,29 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{ $siteTitle := site.Title }}
+{{ $rawTitle := cond .IsHome $siteTitle (printf "%s | %s" .Title $siteTitle) }}
+{{ $title := $rawTitle | plainify | htmlUnescape }}
+{{ if gt (len $title) 68 }}{{ $title = printf "%s…" (substr $title 0 67) }}{{ end }}
+{{ $desc := .Description | default .Params.description | default site.Params.description | plainify | htmlUnescape }}
+{{ if gt (len $desc) 165 }}{{ $desc = printf "%s…" (substr $desc 0 164) }}{{ end }}
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $desc }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<meta name="robots" content="{{ if .Params.noindex }}noindex,follow{{ else }}index,follow{{ end }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+{{ $img := .Params.image | default site.Params.defaultImage }}
+{{ $imgAbs := absURL $img }}
+<meta property="og:image" content="{{ $imgAbs }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+<meta name="twitter:image" content="{{ $imgAbs }}">
+<link rel="preload" href="/css/main.css" as="style">
+<link rel="stylesheet" href="/css/main.css">
+<link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ "index.xml" | absURL }}">
+<link rel="icon" href="/images/site/favicon.svg" type="image/svg+xml">
+{{ partial "schema.html" . }}

@@ -1,0 +1,20 @@
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.161.1"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "false"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Frame-Options = "DENY"
+
+[[redirects]]
+  from = "/blog/*"
+  to = "/articles/:splat"
+  status = 301

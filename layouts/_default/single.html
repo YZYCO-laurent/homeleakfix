@@ -1,0 +1,53 @@
+{{ define "main" }}
+{{ if eq .Section "articles" }}
+<article class="article-shell">
+  <header class="article-header">
+    <div class="container article-header-grid">
+      <div>
+        <nav class="breadcrumbs"><a href="/">Home</a><span>/</span><a href="/articles/">Knowledge Base</a>{{ with index .Params.categories 0 }}<span>/</span><a href="{{ printf "/categories/%s/" (. | urlize) }}">{{ . }}</a>{{ end }}</nav>
+        <div class="meta-row category-row">{{ range .Params.categories }}<a class="badge" href="{{ printf "/categories/%s/" (. | urlize) }}">{{ . }}</a>{{ end }}</div>
+        <h1>{{ .Title }}</h1>
+        <p class="lead">{{ .Description | default .Summary | plainify }}</p>
+        <div class="article-meta">By {{ site.Params.author }} · Updated {{ .Lastmod.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min read</div>
+      </div>
+      <figure class="article-hero-image">
+        {{ $image := .Params.image | default site.Params.defaultImage }}
+        <img src="{{ $image }}" alt="{{ .Params.image_alt | default (printf "Featured image for %s" .Title) }}">
+      </figure>
+    </div>
+  </header>
+  <div class="container article-layout">
+    <aside class="toc-wrap">
+      <div class="toc-card"><strong>On this page</strong>{{ .TableOfContents }}</div>
+    </aside>
+    <div class="article-content">
+      {{ .Content }}
+      <section class="disclaimer-box">
+        <h2>DIY safety disclaimer</h2>
+        <p>{{ site.Params.disclaimer }}</p>
+      </section>
+      <section class="article-taxonomy">
+        <h2>Related topics</h2>
+        <div class="tag-list">{{ range .Params.categories }}<a href="{{ printf "/categories/%s/" (. | urlize) }}">{{ . }}</a>{{ end }}{{ range .Params.tags }}<span>{{ . }}</span>{{ end }}</div>
+      </section>
+    </div>
+  </div>
+  <section class="container related-section">
+    <div class="section-heading split"><div><p class="eyebrow">Keep learning</p><h2>Related leak repair guides</h2></div></div>
+    <div class="article-grid">
+      {{ $cats := .Params.categories }}
+      {{ $shown := 0 }}
+      {{ range where site.RegularPages "Section" "articles" }}
+        {{ if and (ne .RelPermalink $.RelPermalink) (gt (len (intersect .Params.categories $cats)) 0) (lt $shown 6) }}
+          {{ partial "article-card.html" . }}
+          {{ $shown = add $shown 1 }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </section>
+</article>
+{{ else }}
+<section class="page-hero compact"><div class="container"><h1>{{ .Title }}</h1>{{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}</div></section>
+<section class="container page-content article-content">{{ .Content }}</section>
+{{ end }}
+{{ end }}

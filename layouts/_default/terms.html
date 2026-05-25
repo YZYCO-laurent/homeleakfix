@@ -1,0 +1,22 @@
+{{ define "main" }}
+<section class="page-hero compact">
+  <div class="container">
+    <p class="eyebrow">Category hub</p>
+    <h1>Leak repair topics</h1>
+    <p class="lead">Use these content hubs to move from the visible symptom to the repair area, material choice, and prevention routine that best matches your home.</p>
+  </div>
+</section>
+<section class="container section-block">
+  <div class="category-grid expanded">
+    {{ range $slug, $cat := site.Params.categories }}
+      {{ $term := index site.Taxonomies.categories $slug }}
+      <a class="category-card" href="/categories/{{ $slug }}/">
+        <span class="category-icon">{{ substr $cat.title 0 1 }}</span>
+        <strong>{{ $cat.title }}</strong>
+        <span>{{ $cat.description }}</span>
+        <em>{{ len $term }} guides</em>
+      </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

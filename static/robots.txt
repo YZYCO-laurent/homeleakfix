@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /tags/
+Disallow: /page/
+Disallow: /*?*
+
+Sitemap: https://homeleakfix.com/sitemap.xml

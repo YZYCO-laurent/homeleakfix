@@ -1,0 +1,9 @@
+{{ define "main" }}
+<section class="page-hero compact"><div class="container"><h1>{{ .Title }}</h1><p class="lead">A human-readable overview of the most important Home Leak Fix pages and guides.</p></div></section>
+<section class="container sitemap-page">
+  <h2>Main pages</h2>
+  <ul>{{ range site.Menus.main }}<li><a href="{{ .URL }}">{{ .Name }}</a></li>{{ end }}</ul>
+  <h2>Article guides</h2>
+  <ul>{{ range where site.RegularPages "Section" "articles" }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}</ul>
+</section>
+{{ end }}

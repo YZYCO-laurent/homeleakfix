@@ -1,0 +1,22 @@
+{{ define "main" }}
+<section class="page-hero compact">
+  <div class="container">
+    <p class="eyebrow">Knowledge base</p>
+    <h1>{{ .Title }}</h1>
+    <p class="lead">{{ .Description | default "Browse practical DIY leak repair and waterproofing guides by topic, symptom, and repair context." }}</p>
+  </div>
+</section>
+<section class="container archive-layout">
+  <aside class="archive-sidebar">
+    <h2>Problem areas</h2>
+    <nav>{{ range $slug, $cat := site.Params.categories }}<a href="/categories/{{ $slug }}/">{{ $cat.title }}</a>{{ end }}</nav>
+  </aside>
+  <div>
+    <div class="archive-summary">{{ len .Pages }} guides in this section</div>
+    <div class="article-grid list-grid">
+      {{ range .Paginator.Pages }}{{ partial "article-card.html" . }}{{ end }}
+    </div>
+    {{ template "_internal/pagination.html" . }}
+  </div>
+</section>
+{{ end }}

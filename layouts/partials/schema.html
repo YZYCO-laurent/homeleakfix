@@ -1,0 +1,38 @@
+{{ $img := .Params.image | default site.Params.defaultImage | absURL }}
+{{ $desc := .Description | default .Params.description | default site.Params.description | plainify | htmlUnescape }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "{{ site.BaseURL }}#organization",
+      "name": "{{ site.Title }}",
+      "url": "{{ site.BaseURL }}",
+      "logo": "{{ site.Params.defaultImage | absURL }}"
+    }{{ if .IsHome }},
+    {
+      "@type": "WebSite",
+      "@id": "{{ site.BaseURL }}#website",
+      "url": "{{ site.BaseURL }}",
+      "name": "{{ site.Title }}",
+      "description": "{{ site.Params.description }}",
+      "publisher": {"@id": "{{ site.BaseURL }}#organization"}
+    }{{ end }}{{ if and .IsPage (eq .Section "articles") }},
+    {
+      "@type": "Article",
+      "@id": "{{ .Permalink }}#article",
+      "mainEntityOfPage": "{{ .Permalink }}",
+      "headline": "{{ .Title | plainify }}",
+      "description": "{{ $desc }}",
+      "image": ["{{ $img }}"],
+      "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+      "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+      "author": {"@type": "Organization", "name": "{{ site.Params.author }}"},
+      "publisher": {"@id": "{{ site.BaseURL }}#organization"},
+      "articleSection": {{ .Params.categories | jsonify }},
+      "keywords": {{ .Params.tags | default .Params.secondary_keywords | jsonify }}
+    }{{ end }}
+  ]
+}
+</script>
